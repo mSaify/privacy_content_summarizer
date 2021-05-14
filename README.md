@@ -41,11 +41,14 @@ presentation - cs19mds11002_privacy_summarization.pptx for details
         
       
 ## Inference / Summary Generation
+
+    a. Summary Extractor has both ways as explained in paper
+        Risk Focused Content Extraction
+        Risk Coverage Extraction
+    
+    hyper parameters
+        alpha - risk threshold.
+        compression ratio - used to calcuate budget.
         
 
-#### execution output :
 
-`privacy_content_summarizer/execution_output`
-
-### example output:
-`brainly_summary`
