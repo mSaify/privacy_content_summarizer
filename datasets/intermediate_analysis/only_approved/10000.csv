@@ -1,0 +1,1224 @@
+index,case_id,classification,doc_id,quoteText,score,service,service_id,source,status
+10000,128,bad,874.0,"<p>Google, as a third-party vendor, uses cookies to serve ads on this site.
+Google's use of the DART cookie enables it to serve ads to Our users based on their visit to our Website and other sites on the Internet.<br>",70, WhatIsMyIP.com,1022,https://www.whatismyip.com/privacy-policy/,approved
+10001,243,bad,874.0,"Customer information is a valuable business asset.
+If for any reason We transfer or divest ourselves of our business assets, our customer information may be transferred as one of these business assets",50, WhatIsMyIP.com,1022,https://www.whatismyip.com/privacy-policy/,approved
+10002,323,bad,874.0,"Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed",50, WhatIsMyIP.com,1022,https://www.whatismyip.com/privacy-policy/,approved
+10003,191,neutral,874.0,We will provide only aggregated data from these analyses to third parties.,10, WhatIsMyIP.com,1022,https://www.whatismyip.com/privacy-policy/,approved
+10004,149,bad,209.0,"OUR AGGREGATE LIABILITY RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS.",10, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10005,122,neutral,209.0,"We may amend or update these Terms.
+We will provide you notice of amendments to our Terms, as appropriate, and update the “Last Modified” date at the top of our Terms.
+Your continued use of our Services confirms your acceptance of our Terms, as amended.",0, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10006,122,neutral,209.0,"We will provide you notice of amendments to our Terms, as appropriate, and update the “Last Modified” date at the top of our Terms.",0, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10007,146,bad,209.0,"
+<p>You agree to defend, indemnify, and hold harmless the WhatsApp Parties from and against all liabilities, damages, losses, and expenses of any kind (including reasonable legal fees and costs) relating to, arising out of, or in any way in connection with any of the following: (a) your access to or use of our Services, including information provided in connection therewith.
+(b) your breach or alleged breach of our Terms.
+or (c) any misrepresentation made by you.
+",60, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10008,146,bad,209.0,"YOU RELEASE US, OUR SUBSIDIARIES, AFFILIATES, AND OUR AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, PARTNERS, AND AGENTS (TOGETHER, THE “WHATSAPP PARTIES”) FROM ANY CLAIM, COMPLAINT, CAUSE OF ACTION, CONTROVERSY, OR DISPUTE (TOGETHER, “CLAIM”) AND DAMAGES, KNOWN AND UNKNOWN, RELATING TO, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH ANY SUCH CLAIM YOU HAVE AGAINST ANY THIRD PARTIES.",60, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10009,178,bad,210.0,"Your messages are stored on your own device.
+If a message cannot be delivered immediately (for example, if you are offline), we may keep it on our servers for up to 30 days as we try to deliver it.
+If a message is still undelivered after 30 days, we delete it.
+To improve performance and deliver media messages more efficiently, such as when many people are sharing a popular photo or video, we may retain that content on our servers for a longer period of time.
+",100, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10010,147,bad,209.0,"The following provisions will survive any termination of your relationship with WhatsApp: “Licenses,” “Disclaimers,” “Limitation of Liability,” “Indemnification,” “Dispute Resolution,” “Availability and Termination of our Services,” “Other,” and “Special Arbitration Provision for United States or Canada Users.”</p>
+<p>",35, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10011,227,good,210.0,How We Use Information,30, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10012,201,bad,209.0,"We may modify, suspend, or terminate your access to or use of our Services anytime for any reason,",60, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10013,201,bad,209.0,"We may modify, suspend, or terminate your access to or use of our Services anytime for any reason, such as if you violate the letter or spirit of our Terms or create harm, risk, or possible legal exposure for us, our users, or others.",60, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10014,286,bad,209.0,"YOU USE OUR SERVICES AT YOUR OWN RISK AND SUBJECT TO THE FOLLOWING DISCLAIMERS.
+WE ARE PROVIDING OUR SERVICES ON AN “AS IS” BASIS ",20, WhatsApp,198,https://www.whatsapp.com/legal?eea=0,approved
+10015,286,bad,209.0,"WE ARE PROVIDING OUR SERVICES ON AN “AS IS” BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND FREEDOM FROM COMPUTER VIRUS OR OTHER HARMFUL CODE.",20, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10016,287,bad,209.0,"THAT OUR SERVICES WILL BE OPERATIONAL, ERROR FREE, SECURE, OR SAFE, OR THAT OUR SERVICES WILL FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS.
+",30, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10017,280,neutral,209.0,"You will not use (or assist others in using) our Services in ways that: (a) violate, misappropriate, or infringe the rights of WhatsApp, our users, or others, including privacy, publicity, intellectual property, or other proprietary rights.
+(b) are illegal,",10, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10018,190,neutral,210.0,"
+<strong>Usage and Log Information.</strong> We collect service-related, diagnostic, and performance information.
+This includes information about your activity (such as how you use our Services, how you interact with others using our Services, and the like), log files, and diagnostic, crash, website, and performance logs and reports.</p>
+",10, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10019,207,neutral,210.0,"We work with third-party providers to help us operate, provide, improve, understand, customize, support, and market our Services.",0, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10020,288,bad,209.0,"WE DO NOT WARRANT THAT ANY INFORMATION PROVIDED BY US IS ACCURATE, COMPLETE, OR USEFUL",10, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10021,183,good,209.0,"WhatsApp does not claim ownership of the information that you submit for your WhatsApp account or through our Services.
+",50, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10022,299,neutral,210.0,"Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services.</p>
+</li>
+",10, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10023,293,bad,209.0,"
+<p>THE WHATSAPP PARTIES WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL, SPECIAL, PUNITIVE, INDIRECT, OR INCIDENTAL DAMAGES RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES, EVEN IF THE WHATSAPP PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+",50, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10024,295,neutral,209.0,"
+<p>If we fail to enforce any of our Terms, it will not be considered a waiver.</p>",10, WhatsApp,198,https://www.whatsapp.com/legal?eea=0,approved
+10025,319,neutral,209.0,"
+If we disable your account for a violation of our Terms, you will not create another account without our permission.</p>",20, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10026,219,good,210.0,"If you are an existing user, you can choose not to have your WhatsApp account information shared with Facebook to improve your Facebook ads and products experiences.",25, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10027,336,bad,210.0," We communicate with you about our Services and features and let you know about our terms and policies and other important updates.
+We may provide you marketing for our Services and those of the Facebook family of companies, of which we are now a part.</p>
+",50, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10028,315,neutral,209.0,"obscene,",15, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10029,283,neutral,209.0,"threatening, intimidating, harassing,",20, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10030,339,bad,209.0,"WhatsApp and you agree that all Disputes (except for the Excluded Disputes), including those relating to, arising out of, or in any way in connection with your rights of privacy and publicity, will be resolved through final and binding arbitration.",50, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10031,339,bad,209.0,"IF YOU ARE A WHATSAPP USER LOCATED IN THE UNITED STATES OR CANADA, IT REQUIRES YOU TO SUBMIT TO BINDING INDIVIDUAL ARBITRATION OF ALL DISPUTES, EXCEPT FOR THOSE THAT INVOLVE INTELLECTUAL PROPERTY DISPUTES AND EXCEPT THOSE THAT CAN BE BROUGHT IN SMALL CLAIMS COURT.",50, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10032,135,good,209.0,"In order to operate and provide our Services, you grant WhatsApp a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, create derivative works of, display, and perform the information (including the content) that you upload, submit, store, send, or receive on or through our Services.
+The rights you grant in this license are for the limited purpose of operating and providing our Services (such as to allow us to display your profile picture and status message, transmit your messages, store your undelivered messages on our servers for up to 30 days as we try to deliver them, and otherwise as described in our Privacy Policy).",15, WhatsApp,198,https://www.whatsapp.com/legal?eea=0,approved
+10033,382,bad,210.0," We receive information other people provide us, which may include information about you.
+",50, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10034,372,good,210.0,"When they are end-to-end encrypted, we and third parties can’t read them.</li>",50, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10035,393,good,210.0,"
+<p>We may collect, use, preserve, and share your information if we have a good-faith belief that it is reasonably necessary to: (a) respond pursuant to applicable law or regulations, to legal process, or to government requests.",30, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10036,399,neutral,210.0,"We collect device location information if you use our location features, such as when you choose to share your location with your contacts, view locations nearby or those others have shared with you, and the like, and for diagnostics and troubleshooting purposes such as if you are having trouble with our app’s location features.</p>",0, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10037,203,bad,209.0,"
+We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time.
+",40, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10038,228,good,210.0,"<strong>Status Information.</strong> We collect information about your online and status message changes on our Services, such as whether you are online (your “online status”), when you last used our Services (your “last seen status”), and when you last updated your status message.</p>",30, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10039,185,bad,210.0,"We use all the information we have to help us operate, provide, improve, understand, customize, support, and market our Services.</p>
+<ul>
+<li>
+<p>
+<strong>Our Services.</strong> We operate and provide our Services, including providing customer support, and improving, fixing, and customizing our Services.
+We understand how people use our Services, and analyze and use the information we have to evaluate and improve our Services, research, develop, and test new services and features, and conduct troubleshooting activities",40, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10040,243,bad,210.0,"All of our rights and obligations under our Privacy Policy are freely assignable by us to any of our affiliates, in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner.</p>
+",50, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10041,323,bad,210.0,"This includes information such as hardware model, operating system information, browser information, IP address, mobile network information including phone number, and device identifiers.",50, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10042,216,bad,210.0," WhatsApp is now part of the Facebook family of companies.
+Our Privacy Policy explains how we work together to improve our services and offerings, like fighting spam across apps, making product suggestions, and showing relevant offers and ads on Facebook.",30, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10043,225,good,210.0,"Your messages are yours, and we can’t read them.</strong> We’ve built privacy, end-to-end encryption, and other security features into WhatsApp.
+We don’t store your messages once they’ve been delivered.
+",0, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10044,232,good,210.0,"For example, you may send us an email with information relating to our app performance or other issues",10, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10045,188,bad,210.0,"When we share information with third-party providers, ",35, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10046,117,bad,209.0,"FINALLY, THIS SECTION WAIVES YOUR RIGHT TO HAVE YOUR DISPUTE HEARD AND RESOLVED AS A CLASS ACTION, CLASS ARBITRATION, OR A REPRESENTATIVE ACTION.",50, WhatsApp,198,https://www.whatsapp.com/legal?eea=0,approved
+10047,148,neutral,209.0," You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.",10, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10048,148,neutral,209.0,"You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.</p>",10, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10049,151,bad,209.0,"THIS SECTION ALSO LIMITS THE TIME YOU HAVE TO START AN ARBITRATION OR, IF PERMISSIBLE, A COURT ACTION.",50, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10050,152,neutral,209.0,"You must be at least 13 years old to use our Services (or such greater age required in your country for you to be authorized to use our Services without parental approval).
+In addition to being of the minimum required age to use our Services under applicable law, if you are not old enough to have authority to agree to our Terms in your country, your parent or guardian must agree to our Terms on your behalf.",15, WhatsApp,198,https://www.whatsapp.com/legal?eea=0,approved
+10051,187,bad,210.0,"<p>You agree to our information practices, including the collection, use, processing, and sharing of your information as described in this Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our Services.",25, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10052,290,bad,209.0,"WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ",0, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10053,294,neutral,209.0,"</li>
+<li>
+<p>If any provision of these Terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from our Terms and shall not affect the validity and enforceability of the remaining provisions, except as set forth in the “Special Arbitration Provision for United States or Canada Users” — “Severability” section below.</p>
+</li>
+<li>
+",10, WhatsApp,198,https://www.whatsapp.com/legal/?lang=en&doc=terms-of-service&version=20200128,approved
+10054,126,neutral,210.0,"We use cookies to operate and provide our Services, including to provide our Services that are web-based, improve your experiences, understand how our Services are being used, and customize our Services.",10, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10055,170,good,210.0,You may delete your WhatsApp account at any time (including if you want to revoke your consent to our use of your information) using our in-app delete my account feature.,15, WhatsApp,198,https://www.whatsapp.com/legal/privacy-policy?eea=0&lang=en,approved
+10056,175,good,2203.0,"If you delete your
+account, your information and content will be unrecoverable after that
+time.
+",50, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10057,184,good,2203.0,"If you have a Whereby account, you can access, modify or export
+your personal information, or delete your account in
+Settings.",30, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10058,197,good,2203.0,"We keep a historical record of
+all changes to our Terms on
+GitHub.",50, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10059,194,good,2203.0,"We will never store any media sent between participants in a
+room.",40, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10060,190,neutral,2203.0,"with
+academic or non-profit researchers, with aggregation, anonymization.
+",10, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10061,303,good,2203.0,"Personal data that we process for any purpose or purposes shall not be
+kept for longer than is necessary for that purpose or those purposes",50, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10062,196,good,2203.0,"We will only collect
+and process information that we need to deliver the service to you,
+and to continue to maintain and develop the service.</p>
+<p>",60, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10063,243,bad,2203.0,"Business Transfers
+<p>We may disclose your personal data to any member of our group of
+companies (this means our subsidiaries, our ultimate holding company
+and all its subsidiaries) insofar as reasonably necessary for the
+purposes, and on the legal bases, set out in this policy.</p>
+<p>",50, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10064,323,bad,2203.0,"Whereby may collect and process
+information about devices used to access the Services, including
+type of device, what operating system is used, device settings,
+application IDs, unique device identifiers and crash data.
+",50, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10065,187,bad,2203.0,"<p>In some circumstances your personal data may be transferred to
+countries outside the European Economic Area (EEA).
+",25, Whereby,2041,https://whereby.com/information/tos/privacy-policy/,approved
+10066,331,neutral,1785.0,"Terms Of Use
+<p>Last updated: March 26, 2019</p>",50, Whirlpool,913,https://www.whirlpool.com/services/about-us/terms-of-use.html#tableOfContents,approved
+10067,117,bad,1785.0,"You expressly waive any right you may have to bring or participate in a Claim as a class, collective or representative proceeding in court or before an arbitrator against Whirlpool and/or the Affiliated Entities.",50, Whirlpool,913,https://www.whirlpool.com/services/about-us/terms-of-use.html#tableOfContents,approved
+10068,331,neutral,2951.0,Effective Date: 16/10/2020,50, Wigwam Design,2374,https://www.wigwam.design/privacy,approved
+10069,218,good,2951.0,We do not track users across multiple visits to the Website and we do not make use of cookies.,100, Wigwam Design,2374,https://www.wigwam.design/privacy,approved
+10070,218,good,2951.0,"When enabled, JavaScript provides all the client side dynamic behaviour of the website, including navigating between pages and loading images.
+It is not used to track users or users behaviour.",100, Wigwam Design,2374,https://www.wigwam.design/privacy,approved
+10071,176,good,2951.0,"In summary, our approach is to record only the absolute minimum data required to successfully operate the website.</p>",50, Wigwam Design,2374,https://www.wigwam.design/privacy,approved
+10072,286,bad,3418.0,"The Services are provided ""AS IS"".
+You are using Wikidot Services at your own risk.",20, Wikidot,2500,https://www.wikidot.com/legal:terms-of-service,approved
+10073,287,bad,3418.0,"Although we work hard to keep the Services online and working, we take no responsibility for possible errors, damages, lost Content, malfunction",30, Wikidot,2500,https://www.wikidot.com/legal:terms-of-service,approved
+10074,279,neutral,3418.0,Wikidot.com is not responsible for links to other websites that may be contained in Wiki Sites nor content of linked websites.</p>,50, Wikidot,2500,https://www.wikidot.com/legal:terms-of-service,approved
+10075,288,bad,3418.0,Wikidot.com is not responsible for any incorrect or inaccurate Content posted on any of the Wiki Sites or through any other part of the Services.,10, Wikidot,2500,https://www.wikidot.com/legal:terms-of-service,approved
+10076,315,neutral,3418.0,"any Content that contains nudity, violence, pornography, ""adult content"" or contains links to any other web site with such materials",15, Wikidot,2500,https://www.wikidot.com/legal:terms-of-service,approved
+10077,281,neutral,3418.0,"any ""junk"", ""spam"", ""chain letters,"" ""pyramid schemes"" etc.",25, Wikidot,2500,https://www.wikidot.com/legal:terms-of-service,approved
+10078,129,bad,1098.0,"These cookies can remember that your device has visited a site or service, and may also be able to track your device’s browsing activity on other sites or services other than wikiHow.",60, WikiHow,315,https://www.wikihow.com/wikiHow:Cookie-Policy,approved
+10079,239,bad,215.0,"Should you ignore this warning and send specific or confidential information in a private message or post it as a comment, there is no duty to keep that information confidential or to discontinue or forego any representation adverse to your interests.
+",70, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10080,238,neutral,215.0,contains any information or content that is illegal,0, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10081,222,good,215.0,"When you upload images to the Service, you may select among various licenses under which wikiHow may distribute and sublicense your image-based User Content.
+wikiHow hereby grants to Users of the Service all rights specified under the terms of the license under which any image-based User Content is licensed to wikiHow.
+</p",10, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10082,201,bad,215.0,"Subject to the terms and conditions of this Agreement, you are hereby granted a non-exclusive, limited, non-transferable, freely revocable license to use the Service as permitted by the features of the Service.
+wikiHow may terminate this license at any time for any reason or no reason.",60, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10083,286,bad,215.0,"THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+USE OF THE SERVICE IS AT YOUR OWN RISK.",20, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10084,287,bad,215.0,"THAT THE SERVICE WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, UNINTERRUPTED, OR SECURE.",30, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10085,289,bad,215.0,THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED.,50, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10086,183,good,215.0,"We claim no ownership rights over User Content created by you.
+The User Content you create remains yours.
+however, by sharing User Content through the Service, you agree to allow others to view, edit, and/or share your User Content in accordance with this Agreement (see “User Content License Grants” below).",50, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10087,293,bad,215.0," IN NO EVENT SHALL WIKIHOW, ITS AFFILIATES, AGENTS, DIRECTORS, EMPLOYEES, SUPPLIERS, OR LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES,",50, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10088,319,neutral,215.0,"The Service is not available to any Users previously removed from the Service by wikiHow.
+",20, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10089,339,bad,215.0,"THIS AGREEMENT CONTAINS A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES,",50, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10090,339,bad,215.0,"For any dispute with wikiHow, you agree to first contact us at wiki@wikiHow.com and attempt to resolve the dispute with us informally.
+In the unlikely event that wikiHow has not been able to resolve a dispute it has with you after attempting to do so informally, we each agree to resolve any claim, dispute, or controversy (excluding any wikiHow claims for injunctive or other equitable relief) arising out of or in connection with or relating to this Agreement, or the breach or alleged breach thereof (collectively, “Claims”), by binding arbitration by the American Arbitration Association (“AAA”) under the Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes then in effect for the AAA, except as provided herein.",50, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10091,403,bad,215.0,"
+wikiHow may, in its sole discretion, modify or update this Agreement from time to time, and so you should review this page periodically.
+When we change the Agreement in a material manner, we will update the ‘last modified’ date on this page.
+Your continued use of the Service after any such change constitutes your acceptance of the new Terms of Use.",50, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10092,223,good,1097.0,"We may send you emails containing newsletters, promotions, and special offers.
+If you do not want to receive such email messages, you will be given the option to opt out or change your preferences.",10, WikiHow,315,https://www.wikihow.com/wikiHow:Privacy-Policy,approved
+10093,243,bad,1097.0,"We may buy or sell/divest/transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses.
+Your information such as customer names and email addresses, User Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions.
+We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company.
+</p",50, WikiHow,315,https://www.wikihow.com/wikiHow:Privacy-Policy,approved
+10094,323,bad,1097.0,"When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users.",50, WikiHow,315,https://www.wikihow.com/wikiHow:Privacy-Policy,approved
+10095,188,bad,1097.0,"We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data, and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.”",35, WikiHow,315,https://www.wikihow.com/wikiHow:Privacy-Policy,approved
+10096,166,bad,1097.0,"We may also share certain information such as your location, browser, cookie data, and other data relating to your use of our Service with our business partners to deliver advertisements (“ads”) that may be of interest to you.
+wikiHow may allow third-party ad servers or ad networks to serve advertisements on the Service.",70, WikiHow,315,https://www.wikihow.com/wikiHow:Privacy-Policy,approved
+10097,117,bad,215.0,"YOU AGREE THAT, BY ENTERING INTO THIS AGREEMENT, YOU AND WIKIHOW ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+</p",50, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10098,148,neutral,215.0,"You are solely responsible for the activity that occurs on your account, and you must keep your account password secure.",10, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10099,152,neutral,215.0,"Any use of the Service by anyone under 13 is strictly prohibited and in violation of this Agreement.
+Notwithstanding the foregoing, a child under the age of 13 may use the site if we receive a signed permission form from the child’s parent or legal guardian.",15, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10100,290,bad,215.0,"WIKIHOW, ITS SUBSIDIARIES, AND ITS LICENSORS DO NOT WARRANT THAT THE CONTENT IS ACCURATE, RELIABLE, OR CORRECT.
+THAT THE SERVICE WILL MEET YOUR REQUIREMENTS.",0, WikiHow,315,http://www.wikihow.com/wikiHow:Terms-of-Use,approved
+10101,286,bad,438.0,"We provide these services on an ""as is"" and ""as available"" basis, and we expressly disclaim all express or implied warranties of all kinds, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+",20, Wikimedia,177,https://foundation.wikimedia.org/wiki/Terms_of_Use/en,approved
+10102,287,bad,438.0,"We make no warranty that our services will meet your requirements, be safe, secure, uninterrupted, timely, accurate, or error-free, or that your information will be secure.",30, Wikimedia,177,https://foundation.wikimedia.org/wiki/Terms_of_Use/en,approved
+10103,193,good,439.0,"We are committed to:</b>
+</p>
+<ul>
+<li>Describing how your information may be used or shared in this Privacy Policy.</li>
+<li>Using reasonable measures to keep your information secure.</li>
+<li>Never selling your information or sharing it with third parties for marketing purposes.</li>",25, Wikimedia,177,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10104,311,good,439.0,"We are strongly committed to not sharing nonpublic information and Personal Information with third parties.
+In particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your Personal Information with any third parties for marketing purposes",50, Wikimedia,177,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10105,331,neutral,438.0,"This page was last edited on 7 June 2019, at",50, Wikimedia,177,https://foundation.wikimedia.org/wiki/Terms_of_Use/en,approved
+10106,387,bad,439.0, the website that referred you to the Wikimedia Sites,50, Wikimedia,177,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10107,399,neutral,439.0,"Finally, when you visit any Wikimedia Site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location.",0, Wikimedia,177,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10108,124,good,439.0,"Changes to This Privacy Policy <p>Substantial changes to this Policy will not be made until after a public comment period of at least 30 days.
+</p>",40, Wikimedia,177,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10109,323,bad,439.0,"
+<p>We actively collect some types of information with a variety of commonly-used technologies.
+These generally include tracking pixels,",50, Wikimedia,177,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10110,215,good,439.0,"If you want to create a standard account, in most cases we require only a username and a password.",20, Wikimedia,177,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10111,151,bad,438.0,"To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred).",50, Wikimedia,177,https://foundation.wikimedia.org/wiki/Terms_of_Use/en,approved
+10112,237,neutral,198.0,"Please be aware that you are legally responsible for all of your contributions, edits, and re-use of Wikimedia content under the laws of the United States of America and other applicable laws (which may include the laws where you live or where you view or edit content).",0, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10113,238,neutral,198.0,"
+<b>You are responsible for your own actions:</b> You are legally responsible for your edits and contributions on Wikimedia Projects, so for your own protection you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws.
+For clarity, applicable law includes at least the laws of the United States of America.
+Although we may not agree with such actions, we warn editors and contributors that authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content.
+WMF generally cannot offer any protection, guarantee, immunity or indemnification.</li>",0, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10114,201,bad,198.0,"We reserve the right to suspend or end the services at any time, with or without cause, and with or without notice.
+",60, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10115,286,bad,198.0,"We provide these services on an ""as is"" and ""as available"" basis",20, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10116,287,bad,198.0,"be safe, secure, uninterrupted, timely, accurate, or error-free, or that your information will be secure.",30, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10117,199,good,198.0,This is a human-readable <b>summary</b> of the Terms of Use.,15, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10118,305,good,197.0,"However, if we believe that a particular request for disclosure of a user's information is legally invalid or an abuse of the legal system and the affected user does not intend to oppose the disclosure themselves, we will try our best to fight it.",60, Wikipedia,265,https://wikimediafoundation.org/wiki/Privacy_policy,approved
+10119,295,neutral,198.0,"If in any circumstance, we do not apply or enforce any provision of these Terms of Use, it is not a waiver of that provision.",10, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10120,131,good,198.0,"When you submit text to which you hold the copyright, you agree to license it under:
+<ul>
+<li>Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and</li>
+<li>GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).</li>
+</ul>
+<p>(Re-users may comply with either license or both.)</p>
+<p>The only exception is if the Project edition or feature requires a different license.
+In that case, you agree to license any text you contribute under that particular license.",90, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10121,319,neutral,198.0,"In the interests of our users and the Projects, in the extreme circumstance that any individual has had his or her account or access blocked under this provision, he or she is prohibited from creating or using another account on or seeking access to the same Project, unless we provide explicit permission.",20, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10122,320,good,197.0,"Because we believe that you shouldn’t have to provide personal information to participate in the free knowledge movement, you may:</b>
+</p>
+<ul>
+<li>Read, edit, or use any Wikimedia Site without registering an account.</li>",50, Wikipedia,265,https://wikimediafoundation.org/wiki/Privacy_policy,approved
+10123,331,neutral,197.0,"This version was approved by Katherine Maher on May 17, 2018, pursuant to the Delegation of policy-making authority by the Board, and went into effect on May 24, 2018.
+",50, Wikipedia,265,https://wikimediafoundation.org/wiki/Privacy_policy,approved
+10124,331,neutral,198.0,"These Terms of Use went into effect on June 16, 2014.",50, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10125,394,neutral,,,20, Wikipedia,265,https://foundation.wikimedia.org/wiki/Privacy_policy,approved
+10126,394,neutral,197.0,<li>Any content you add or any change that you make to a Wikimedia Site will be publicly and permanently available.,20, Wikipedia,265,https://wikimediafoundation.org/wiki/Privacy_policy,approved
+10127,124,good,197.0,Changes to This Privacy Policy <p>Substantial changes to this Policy will not be made until after a public comment period of at least 30 days.,40, Wikipedia,265,https://wikimediafoundation.org/wiki/Privacy_policy,approved
+10128,163,neutral,198.0,"If you seek to file a legal claim against us, you agree to file and resolve it exclusively in a state or federal court located in San Francisco County, California.
+You also agree that the laws of the State of California and, to the extent applicable, the laws of the United States of America will govern these Terms of Use, as well as any legal claim that might arise between you and us (without reference to conflict of laws principles).
+You agree to submit to the personal jurisdiction of, and agree that venue is proper in, the courts located in San Francisco County, California, in any legal action or proceeding relating to us or these Terms of Use.
+</p>
+",0, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10129,119,good,198.0,we believe that community input is essential for these Terms of Use to properly serve our users,30, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10130,323,bad,197.0,"We actively collect some types of information with a variety of commonly-used technologies.
+These generally include tracking pixels, JavaScript, and a variety of ""locally stored data"" technologies, such as cookies and local storage.",50, Wikipedia,265,https://wikimediafoundation.org/wiki/Privacy_policy,approved
+10131,215,good,197.0,Register for an account without providing an email address or real name.,20, Wikipedia,265,https://wikimediafoundation.org/wiki/Privacy_policy,approved
+10132,204,good,198.0,"In certain (hopefully unlikely) circumstances it may be necessary for either ourselves or the Wikimedia community or its members (as described in Section 10) to terminate part or all of our services, terminate these Terms of Use, block your account or access, or ban you as a user.",20, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10133,151,bad,198.0,"To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred).",50, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10134,187,bad,198.0,"Because our services are used by people all over the world, personal information that we collect may be stored and processed in the United States of America or any other country in which we or our agents maintain facilities.",25, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10135,290,bad,198.0,"We make no warranty that our services will meet your requirements,",0, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10136,294,neutral,198.0,"If any provision or part of a provision of these Terms of Use is found unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and will be enforced to the maximum extent permissible, and all other provisions of these Terms of Use will remain in full force and effect.",10, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10137,170,good,198.0,"Though we hope you will stay and continue to contribute to the Projects, you can stop using our services any time.
+",15, Wikipedia,265,https://wikimediafoundation.org/wiki/Terms_of_Use,approved
+10138,147,bad,4071.0,"
+<b>Survival.</b> Sections 5, 7 - 13 and 14 - 17 shall survive any termination of these Terms.</p>
+",35, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10139,138,neutral,4071.0,"If you believe in good faith that items, information or other materials appearing on the Website infringes your copyright, you (or your agent) may send Interesting.com's Designated Agent a notice requesting that the item, information or material be removed, or access to it blocked.</p>
+<p>You can contact Interesting.com's Designated Agent at: Chris Whitten, Interesting.com, Inc., 49 Bramblebush Road, Croton on Hudson, NY 10520, info-at-wikitree-dot-com (remove the hyphens and convert ""at"" to ""@"" and ""dot"" to ""."").",10, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10140,155,good,4071.0,"<p>If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, the DMCA permits you to send us a counter-notice.
+Notices and counter-notices must meet statutory requirements imposed by the DMCA.
+One place to find more information is the U.S.
+Copyright Office web site, currently located at http://www.loc.gov/copyright/.
+We suggest that you consult your legal advisor before filing a notice or counter-notice.",20, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10141,143,neutral,4071.0,"The Website is for non-commercial, personal use only.",25, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10142,286,bad,4071.0,"THE WEBSITE, THE MATERIALS IT CONTAINS, AND ANY INTERESTING.COM PRODUCTS OR SERVICES PROVIDED ON OR IN CONNECTION WITH THE SITE ARE PROVIDED ON AN ""AS IS, ""AS AVAILABLE"" BASIS WITHOUT WARRANTIES OF ANY KIND.",20, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10143,164,bad,4070.0,"or in other special cases, such as an attempted breach of WikiTree security, without notice to you.",50, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10144,374,good,4070.0,"
+These cookies don't hold any Personal Information.
+They are just flags or simple bits of data that manipulate how the website looks and acts.",50, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10145,280,neutral,4071.0,your use of the Website does not violate any applicable law or regulation.,10, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10146,207,neutral,4070.0,<p>We hire other companies to provide services on our behalf.,0, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10147,210,good,4070.0,"Any company performing services on our behalf will be subject to contractual obligations governing data protection that adhere to the policies contained herein and applicable laws.
+In addition, we will provide these companies only with the information they need to deliver the services, and, where applicable, such companies will be contractually prohibited from using that information for any other purpose.
+</p> ",20, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10148,331,neutral,4070.0,<i>Updated: 25 May 2018</i>,50, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10149,307,bad,4070.0,"WikiTree may also use Facebook features and tools, including pixel tags added to WikiTree, that allow data about actions of visitors to be sent to Facebook.
+Facebook’s use of such data is governed by Facebook’s Data Use Policy.",50, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10150,391,good,4071.0,"By registering and providing your e-mail address, you consent to us communicating with you by e-mail, including without limitation, to provide you notice of any security breach in lieu of other written notification.",30, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10151,393,good,4070.0,"<p>In certain circumstances, if we believe it is reasonably necessary, we may release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute, or court order",30, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10152,399,neutral,4070.0,"We store IP addresses in various log files.
+We could not protect our community against vandals and spammers without this tracking.",0, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10153,403,bad,4070.0,Your continued use of WikiTree following the posting of changes to these terms will mean you accept these changes.,50, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10154,202,blocker,4071.0,"We reserve the right to prohibit or remove, without prior notice, any content that, in our sole judgment and discretion, interferes with that goal.</p>",50, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10155,300,good,4070.0,"Express any concern you have about our use of your Personal Information.
+</li>
+</ul>
+<p>You can e-mail info@wikitree.com for help with any of the above.",30, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10156,140,good,4070.0,"Obtain a copy of the Personal Information about you.
+This is best done with a GEDCOM export since it creates a portable file that can be imported into almost any major genealogy program or website.",40, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10157,145,bad,4071.0,"13.
+INDEMNITY
+<p>
+<b>User Indemnity.</b> User agrees by accessing the Website to indemnify and hold harmless Interesting.com and its member firms, affiliates, partners, employees, officers, agents, representatives and contractors from and against all actions, proceedings, suits, claims and demands brought or made against Interesting.com by any person and from and against any damage, loss, cost or expense (including reasonable attorneys' fees) suffered or incurred by Interesting.com as a direct or indirect consequence arising from or in consequence of any negligent act or omission by, willful misconduct of, or breach of these Terms by User.",40, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10158,152,neutral,4071.0,you are 13 years of age or older.,15, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10159,150,neutral,4071.0,"You agree not to use or launch any automated system, including without limitation, ""robots,"" ""spiders,"" or ""offline readers,"" that accesses the Website in a manner that sends more request messages to our servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser.",20, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10160,174,blocker,4070.0,"
+You may request that we remove your Personal Information by contacting us, with the understanding that we may maintain an archive or back-up of the information not on the Website.
+</p> ",30, WikiTree,2736,https://www.wikitree.com/wiki/Help:Privacy_Policy,approved
+10161,170,good,4071.0,"This Agreement shall remain in full force and effect while you use the Website or are a Member.
+You may terminate your Membership at any time, for any reason, by following the instructions on the Member's Account Settings page.",15, WikiTree,2736,https://www.wikitree.com/about/terms.html,approved
+10162,279,neutral,2049.0,"The Site may link to or use web sites
+or services belonging to third parties.
+We have no control over third-party
+sites or services, and all use of third-party sites or services is at your own
+risk.",50, Wikiwand,1941,https://wikiwand.com/privacy,approved
+10163,299,neutral,2049.0,"We
+are not responsible for the use of any data by third parties, and we cannot
+vouch for the privacy policies of any third party.",10, Wikiwand,1941,https://wikiwand.com/privacy,approved
+10164,325,bad,2049.0,"We
+may use services such as Google Analytics or other analytics services that
+provides us with analysis of the use of our Site.",10, Wikiwand,1941,https://wikiwand.com/privacy,approved
+10165,395,blocker,2049.0,"We
+also collect information when you make use of the Site, including your browsing
+history.",50, Wikiwand,1941,https://wikiwand.com/privacy,approved
+10166,399,neutral,2049.0,"The Site will also
+record certain information automatically, such as your IP address, mobile
+device or computer, operating system and browser.",0, Wikiwand,1941,https://wikiwand.com/privacy,approved
+10167,122,neutral,4443.0,当社は、本規約を変更できるものとします。当社は、本規約を変更した場合には、登録ユーザーに当該変更内容を通知するものとし,0, WikiWiki,2883,https://wikiwiki.jp/pp/policies,approved
+10168,280,neutral,4443.0,法令に違反する行為または犯罪行為に関連する行為,10, WikiWiki,2883,https://wikiwiki.jp/pp/policies,approved
+10169,163,neutral,4443.0,本規約及びサービス利用契約の準拠法は日本法とします。,0, WikiWiki,2883,https://wikiwiki.jp/pp/policies,approved
+10170,148,neutral,4443.0,"登録ユーザーは、自己の責任において、本サービスに関するパスワード及びユーザーIDを適切に管理及び保管するものとします。</li>
+<li>パスワードまたはユーザーIDの管理不十分、使用上の過誤、第三者の使用等によって生じた損害に関する責任は登録ユーザーが負うものとし、当社は一切の責任を負いません。",10, WikiWiki,2883,https://wikiwiki.jp/pp/policies,approved
+10171,294,neutral,4443.0,本規約のいずれかの条項またはその一部が、消費者契約法その他の法令等により無効または執行不能と判断された場合であっても、本規約の残りの規定及び一部が無効または執行不能と判断された規定の残りの部分は、継続して完全に効力を有するものとします。,10, WikiWiki,2883,https://wikiwiki.jp/pp/policies,approved
+10172,146,bad,449.0,"You agree not to defend, indemnify, or hold harmless WindowsLogic Productions, its officers, directors, employees and agents, from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and expert fees, arising out of or in any way connected with your access to or use of the Services, or your violation of these Terms of Service.</p",60, WindowsLogic Productions,600,https://www.windowslogic.co.uk/termsofservice.php,approved
+10173,177,good,2708.0,"Your Rights <p>When contacting us or sending a form on our site, as appropriate, you may be asked to enter your name, email address and other details to help you with your experience, this data is recorded and sent to us but is deleted after it has been read and/or dealt with and kept for no more than a maximum of 30 days if specified.</p>
+",80, WindowsLogic Productions,600,https://windowslogic.co.uk/privacy-policy.php,approved
+10174,149,bad,,,10, Wish,2929,https://www.wish.com/eu-terms,approved
+10175,122,neutral,,,0, Wish,2929,https://www.wish.com/eu-terms,approved
+10176,154,neutral,,,0, Wish,2929,https://www.wish.com/eu-terms,approved
+10177,231,good,,,40, Wish,2929,https://www.wish.com/privacy_policy,approved
+10178,201,bad,,,60, Wish,2929,https://www.wish.com/eu-terms,approved
+10179,195,good,,,50, Wish,2929,https://www.wish.com/privacy_policy,approved
+10180,287,bad,,,30, Wish,2929,https://www.wish.com/eu-terms,approved
+10181,164,bad,,,50, Wish,2929,https://www.wish.com/privacy_policy,approved
+10182,288,bad,,,10, Wish,2929,https://www.wish.com/eu-terms,approved
+10183,293,bad,,,50, Wish,2929,https://www.wish.com/eu-terms,approved
+10184,319,neutral,,,20, Wish,2929,https://www.wish.com/en-terms,approved
+10185,233,bad,,,60, Wish,2929,https://www.wish.com/privacy_policy,approved
+10186,331,neutral,,,50, Wish,2929,https://www.wish.com/en-terms,approved
+10187,375,neutral,,,50, Wish,2929,https://www.wish.com/cookie_policy,approved
+10188,403,bad,,,50, Wish,2929,https://www.wish.com/eu-terms,approved
+10189,310,neutral,,,15, Wish,2929,https://www.wish.com/eu-terms,approved
+10190,313,good,,,50, Wish,2929,https://www.wish.com/eu-terms,approved
+10191,163,neutral,,,0, Wish,2929,https://www.wish.com/eu-terms,approved
+10192,407,blocker,,,70, Wish,2929,https://www.wish.com/eu-terms,approved
+10193,323,bad,,,50, Wish,2929,https://www.wish.com/privacy_policy,approved
+10194,333,bad,,,70, Wish,2929,https://www.wish.com/privacy_policy,approved
+10195,140,good,,,40, Wish,2929,https://www.wish.com/privacy_policy,approved
+10196,151,bad,,,50, Wish,2929,https://www.wish.com/eu-terms,approved
+10197,152,neutral,,,15, Wish,2929,https://www.wish.com/en-terms,approved
+10198,187,bad,,,25, Wish,2929,https://www.wish.com/privacy_policy,approved
+10199,170,good,,,15, Wish,2929,https://www.wish.com/eu-terms,approved
+10200,201,bad,2752.0,"We reserve the right, at our sole discretion, to
+modify, suspend, restrict, or discontinue your access and use of the Site or
+any part thereof.
+",60, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10201,213,neutral,2752.0,"You will not register with a pseudonym,
+false identity, avatar, or false image.",10, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10202,230,bad,2752.0,"
+</b>To access and use our Site, you may be required to
+complete a registration with us.",25, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10203,280,neutral,2752.0,"The activities or items prohibited
+include, but are not limited to: violations of local state or federal law",10, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10204,331,neutral,2752.0,"Last Updated June &nbsp;15, 2020",50, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10205,339,bad,2752.0,"<p>PLEASE NOTE THAT THESE TERMS
+INCLUDE AN <b>ARBITRATION PROVISION</b>, WHICH YOU WILL BE BOUND TO BY USING
+AND ACCESSING OUR SITE.</p>
+<p>",50, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10206,203,bad,2752.0,"We reserve the right to terminate,
+suspend, change, or restrict access to all or any part of our Site without
+notice or liability.</p>",40, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10207,163,neutral,2752.0,"</b>This Agreement shall be governed and interpreted under
+the laws of the State of California.",0, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10208,148,neutral,2752.0,"You acknowledge and agree that you are solely responsible for
+maintaining the security of the devices you may use to access the Site.
+",10, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10209,152,neutral,2752.0,"You may not use the Site if:
+(1) you are not of legal age or capacity to entering into a binding agreement
+with us unless you have approval of a guardian,",15, Wishlist,823,https://www.wishlist.com/termsofuse,approved
+10210,176,good,844.0,"Similarly, we only keep ephemeral logs for debugging and system administration",50, witches.live mastodon,1006,https://witches.live/terms,approved
+10211,331,neutral,232.0," &nbsp;Wix.com Privacy Policy<p>Effective from August 26, 2020",50, wix,287,http://www.wix.com/about/privacy,approved
+10212,175,good,1647.0,"<p>If you wish to review, correct, or delete content or information you have publicly posted on our Service you may do so by visiting the individual post and selecting the “Edit” or “Delete” options.",50, Wizards of the Coast,1709,https://company.wizards.com/legal/wizards-coasts-privacy-policy,approved
+10213,233,bad,1647.0,"Do Not Track.&nbsp;</b>Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit.
+Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals.
+Accordingly, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms",60, Wizards of the Coast,1709,https://company.wizards.com/legal/wizards-coasts-privacy-policy,approved
+10214,329,neutral,1647.0,"We reserve the right to change this Privacy Policy at any time.
+Any changes will be effective immediately upon posting of the revised Privacy Policy.
+Please visit this page from time to time to check for changes.
+Your continued use of our Service indicates your consent to the Privacy Policy then posted.
+If the changes are material, we may provide you additional notice to your email address.</p>",50, Wizards of the Coast,1709,https://company.wizards.com/legal/wizards-coasts-privacy-policy,approved
+10215,223,good,1647.0,"<p>If you do not want Wizards to send you promotional emails about products, services or events, you may opt-out of receiving such promotional emails at the time of registration.",10, Wizards of the Coast,1709,https://company.wizards.com/legal/wizards-coasts-privacy-policy,approved
+10216,187,bad,1647.0,"INTERNATIONAL TRANSFER OF INFORMATION</b>
+<p>Wizards is based in the U.S.
+and the information it collects is governed by U.S.
+law.
+If you are accessing the Service from outside the U.S., please be aware that information collected through the Service may be transferred across borders, and from your country or jurisdiction to other countries or jurisdictions around the world, including the U.S.
+Data protection laws in the U.S.
+and other jurisdictions may be different from those of your country of residence.
+By using the Service, you are expressly consenting to the transfer to and from, processing, usage, sharing, and storage of your information, including personal data, in the U.S.
+as well as other jurisdictions where Wizards conducts business or provides services",25, Wizards of the Coast,1709,https://company.wizards.com/legal/wizards-coasts-privacy-policy,approved
+10217,331,neutral,4937.0,These Terms of Use are effective as of 04/30/2012,50, WizeBot,3102,https://support.wizebot.tv/support/terms,approved
+10218,146,bad,2887.0," You agree to defend, indemnify and hold harmless Women Also Know Stuff and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, by you or any person using your account and password.
+b) a breach of these Terms, or c) Content posted on the Service.
+",60, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10219,127,bad,2887.0,"If you would prefer have your browser stop supplying information to Google Analytics, Google provides a browser extension to allow you to do so.",5, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10220,201,bad,2887.0," We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms",60, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10221,278,neutral,2887.0,"You acknowledge and agree that Women Also Know Stuff shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
+We strongly advise you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.",50, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10222,286,bad,2887.0,"The Service is provided on an ""AS IS"" and ""AS AVAILABLE"" basis.",20, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10223,193,good,2887.0,We will not sell or rent this information to anyone.,25, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10224,306,good,2887.0,This site employs two first-party cookies (served from us and by us that are essential for the site to operate) and two third-party cookies that deliver external services.,40, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10225,331,neutral,2887.0,"<b>Last updated: August 04, 2019",50, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10226,124,good,2887.0,"We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
+If a revision is material we will provide at least 30 days notice prior to any new terms taking effect.",40, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10227,163,neutral,2887.0,These Terms shall be governed and construed in accordance with the laws of the state of Arizona and the United States,0, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10228,170,good,2887.0,"You can delete information yourself by logging into your account and adjusting your profile as desired.
+Or you may email us at contact@womenalsoknowstuff.com and request that an administrator delete your entire profile from the system.
+Once this happens, your name and information will no longer appear on the site or be searchable publicly.
+</li>
+<li> ",15, Women Also Know Stuff,2358,https://womenalsoknowstuff.com,approved
+10229,135,good,,"By submitting Content to Automattic for inclusion on your website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt, and publish the Content solely for the purpose of displaying, distributing, and promoting your website.
+This license also allows Automattic to make any publicly-posted Content available to third parties selected by Automattic (through Firehose, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services",15, WordPress.org,173,http://en.wordpress.com/tos/,approved
+10230,178,bad,3527.0,"To keep the site enjoyable and safe for all users, we log IP address from registration and posting messages and save old email addresses of registered forum members.
+This information is invaluable for security of the site and its members.
+<br>We generally do not retain IP logs of unregistered visitors in more than 30 days.
+</p>",100, WordReference,2536,https://www.wordreference.com/english/Privacy Policy.htm,approved
+10231,220,bad,3527.0,"The information collected by WordReference.com is used for the purpose of troubleshooting, targeting ads and measuring ad effectiveness on behalf of advertisers.<br>",40, WordReference,2536,https://www.wordreference.com/english/Privacy Policy.htm,approved
+10232,186,bad,3525.0,"You agree that any personal information you have entered will be stored in a database.
+The administrator and moderators cannot be held responsible for any hacking attempt that may lead to the data being compromised.
+",30, WordReference,2536,https://forum.wordreference.com/help/terms/,approved
+10233,298,good,3527.0,"WordReference.com does not collect any personally identifiable information about you such as name, address, phone number.&nbsp.
+",60, WordReference,2536,https://www.wordreference.com/english/Privacy Policy.htm,approved
+10234,306,good,3526.0,"These are the main cookies we set during normal operation of the software.
+</p>
+<ul>
+<li>
+<strong>xf_csrf</strong>
+<ul>
+<li>Stores a token, unique to you, which is used to verify that the actions you perform on this site were intended to be performed by you.</li>
+</ul>
+</li>
+<li>
+<strong>xf_session</strong>
+<ul>
+<li>Stores the current ID of your session.</li>
+</ul>
+</li>
+<li>
+<strong>xf_user</strong>
+<ul>
+<li>Stores a key, unique to you, which allows us to keep you logged in to the software as you navigate from page to page.<",40, WordReference,2536,https://forum.wordreference.com/help/cookies/,approved
+10235,128,bad,3526.0,"Advertising cookies (possibly third-party).
+If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things.
+These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.</li>",70, WordReference,2536,https://forum.wordreference.com/help/cookies/,approved
+10236,325,bad,3527.0,we use analytics software such as Google Analytics to count our visitors.,10, WordReference,2536,https://www.wordreference.com/english/Privacy Policy.htm,approved
+10237,307,bad,3526.0,"<li>Other third-party cookies for things like Facebook or Twitter sharing.
+These cookies will generally be set by the third-party independently, so this site will have no ability to access them.</li>
+</ul>",50, WordReference,2536,https://forum.wordreference.com/help/cookies/,approved
+10238,394,neutral,3525.0,"When a message is placed in WordReference or its forums, you are granting an irrevocable license to the site to use it in perpetuity.<br>",20, WordReference,2536,https://forum.wordreference.com/help/terms/,approved
+10239,388,neutral,3525.0,"You are free to quote short passages or definitions from threads in the Forums outside the forums.
+We appreciate a citation to WordReference, if appropriate, when you do so.
+",50, WordReference,2536,https://forum.wordreference.com/help/terms/,approved
+10240,399,neutral,3527.0,"However,
+WordReference.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example) and your IP address.
+",0, WordReference,2536,https://www.wordreference.com/english/Privacy Policy.htm,approved
+10241,444,good,3525.0,"<b>Don’t post personal information.</b>
+<br> Do not post personal data such as email addresses, phone numbers, etc.
+Where appropriate, you can put some of this in your personal profile.
+<br> Excerpts of email or private messages are not allowed.
+<br> ",0, WordReference,2536,https://forum.wordreference.com/help/terms/,approved
+10242,324,neutral,3525.0,You may register with one user name only.,30, WordReference,2536,https://forum.wordreference.com/help/terms/,approved
+10243,193,good,,,25, Wugtodon,1600,https://wug.fun/terms,approved
+10244,178,bad,4107.0,"
+Information may persist in copies made for backup and business continuity purposes for additional time.",100, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10245,134,bad,4108.0," fully sub-licensable (through multiple tiers), worldwide license",50, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10246,227,good,4107.0,"<p>
+<strong>What do we use your information for?</strong>
+",30, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10247,226,good,4107.0,"All information you provide to us is stored on secure servers.
+Any payment transactions will be encrypted using Secure Sockets Layer (SSL) technology.",15, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10248,143,neutral,4108.0,"Use License</p>
+<p>Permission is granted to temporarily download one copy of the materials (information or software) available from the Services for personal, non-commercial transitory viewing only.
+",25, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10249,195,good,4107.0,"
+<p>Individuals in the European Economic Area (“EEA”) and many other jurisdictions have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them, and to obtain its correction, update, amendment, or deletion in appropriate circumstances.
+",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10250,284,neutral,4108.0,"(6) malicious content (including, without limitation, malware or spyware).",20, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10251,286,bad,4108.0,<p>The materials on the Services are provided on an ‘as is’ basis.,20, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10252,287,bad,4108.0,"The materials appearing on the Services could include technical, typographical, or photographic errors.
+KC Online Media, LLC does not warrant that any of the materials on its website are accurate, complete or current.
+",30, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10253,280,neutral,4108.0,<p>Content prohibited from our sites and services includes but is not limited to: (1) illegal content.,10, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10254,190,neutral,4107.0,"We may use de-identified and/or aggregated data for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, sponsors, event promoters, and/or others.</p>
+<p>",10, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10255,279,neutral,4108.0,"<p>Further, KC Online Media, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Services or otherwise relating to such materials or on any sites linked to from the Services.</p>",50, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10256,207,neutral,4107.0,We may provide access to or share your information with select third parties who perform services on our behalf and for any other legitimate business purpose.,0, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10257,288,bad,4108.0,"<p>Further, KC Online Media, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Services",10, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10258,299,neutral,4107.0,"Please note that this Privacy Policy applies only to information collected through the Services and not to information you may provide to any third-party sites to which XDA Developers may link, except as expressly provided herein.",10, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10259,301,good,4107.0,"By using our site, you consent to our web site privacy policy.</p>
+<p>
+<strong>Ad Consent</strong>
+</p>
+<p>View and Change Ad Consent</p>
+<p>
+<strong>Changes to our Privacy Policy</strong>
+</p>
+<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+<p>",30, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10260,293,bad,4108.0,"</p>
+<p>In no event shall KC Online Media, LLC or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the Services, even if KC Online Media, LLC or a KC Online Media, LLC authorized representative has been notified orally or in writing of the possibility of such damage.
+",50, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10261,385,good,4107.0,"Those parties that use these technologies, including DigiTrust, may offer you a way to opt out of ad targeting as described below.
+",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10262,144,neutral,4107.0,"Some online services offered by or affiliated with us may be governed by a separate privacy policy.
+In those instances, the product-specific privacy policy shall apply to that online service.</p>
+",0, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10263,128,bad,4107.0,"Targeting cookies.</strong>&nbsp;These cookies record your visit to our website, the pages you have visited and the links you have followed.
+We will use this information to make our website and the advertising displayed on it more relevant to your interests.
+We may also share this information with third parties for this purpose.</li>
+</ul>",70, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10264,303,good,4107.0,"We will keep your information only for as long as is reasonably necessary for the purpose that it has been processed, taking into account any legal requirements under Applicable Law.
+For the avoidance of doubt, we will retain your information to continue offering the Services to you.
+If you terminate your account, any association between your account and information we store will no longer be accessible through your account.
+",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10265,219,good,4107.0,"
+Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising.
+In that case, the ads will just not be tailored.</p>",25, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10266,233,bad,4107.0,"However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+",60, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10267,325,bad,4107.0,"As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.</p>
+",10, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10268,331,neutral,4107.0,"Last Updated: February 28th, 2020</p>",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10269,283,neutral,4108.0,"(3) offensive content (including, without limitation, court ordered defamatory statements, threatening, hateful or pornographic content).",20, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10270,307,bad,4107.0,"
+<p>In addition, our Services may include cookies and tracking mechanisms from social media platforms (e.g., Facebook) through which the social media platform may collect information about you, such as mobile advertising identifier, cookie data, and IP address, as well as non-personal information (e.g.
+screen size), for purposes that include targeting advertisements.",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10271,394,neutral,4108.0,"<p>You automatically grant and assign to us, and you represent and warrant that you have the right to grant and assign to us, a perpetual,",20, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10272,382,bad,4107.0,"If you access the Services through a third-party connection or log-in (e.g., through a social network), you may allow us to have access to and store certain information in your social network profile.",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10273,387,bad,4107.0,"
+and (b) information related to the ways in which you interact with the Services, such as: referring and exit web pages and URLs,",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10274,393,good,4107.0,"By using the Services, you acknowledge, consent and agree that we may access, preserve and disclose your information, including, but not limited to, any user content, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process.
+(b) enforce our&nbsp;Terms of Service, this Policy, or other contracts with you, including investigation of potential violations thereof.
+(c) respond to claims that any content violates the rights of third parties.
+(d) respond to your requests for customer service.
+and/or (e) protect the rights, property or personal safety of XDA Devlopers, its agents and affiliates, its users and/or the public.",30, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10275,234,blocker,4107.0,"We may also obtain information, such as demographic information, from our affiliates or from third parties, such as marketers, partners, researchers, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies and others.</p>",100, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10276,399,neutral,4107.0,"<p>We may automatically collect certain information about the computer or devices (including mobile devices or tablets) you use to access the Services.
+As described further below, we may collect and analyze information such as (a) IP addresses,",0, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10277,400,bad,4107.0,"geolocation information, ",45, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10278,375,neutral,4107.0,"
+Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.</p>
+",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10279,403,bad,4108.0,By using this website you are agreeing to be bound by the then current version of these terms of service.</p>,50, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10280,121,bad,4108.0,"KC Online Media, LLC may revise these terms of service for its website at any time without notice.",70, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10281,302,good,4107.0,"Where you are accessing Services from an EEA member state, we will take all steps reasonably necessary to ensure that your information is treated securely in accordance with this privacy policy always and at least to the standards required by Applicable Law in the jurisdiction of access.</p>",60, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10282,300,good,4107.0,"While we strongly encourage you to first raise any questions or concerns about your personal data with us, you also have a right to contact the relevant supervisory authority.</p>",30, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10283,313,good,4108.0,"<p>In our sole discretion, we may disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others.</p>
+",50, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10284,228,good,4107.0,"
+<strong>What information do we collect?",30, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10285,373,bad,4107.0,"
+<p>We and our service providers may automatically collect location information, including general information (e.g., IP address, zip code) from your computer or mobile device.
+If you access the Services through a mobile device, we may also ask you to share your specific geo-location information with us.
+The Services use this location information to provide customized location-based services, content, promotional offers and other information that may be of interest to you.",75, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10286,163,neutral,4108.0,"These terms and conditions are governed by and construed in accordance with the laws of Pennsylvania and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.</p>
+",0, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10287,223,good,4107.0,"If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>",10, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10288,323,bad,4107.0,unique device identifiers,50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10289,216,bad,4107.0,"We may use this profile or fingerprint to understand and analyze how you interact with the Services, to customize content or advertising to you through the Services, to monitor against fraud or misuse of the Services, or in other ways consistent with this Privacy Policy.</p>",30, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10290,232,good,4107.0,"<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+<p>KC&nbsp;Online Media, LLC (xda-developers.com)<br>
+info@xda-developers.com</p>
+<p>
+",10, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10291,188,bad,4107.0,"We may share information amongst members of our corporate group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+",35, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10292,166,bad,4107.0,"<p>We may use third-party advertising companies to serve ads when you visit our Web Site.
+These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you.
+",70, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10293,444,good,4108.0,"(4) content that discloses another’s personal, confidential or proprietary information.",0, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10294,211,bad,4107.0,"
+<p>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form, use our search functionality, make a purchase, enter a contest, complete a survey, ",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10295,338,good,4107.0,"<p>If you have provided contact information through the Services and decide that you do not want us to use that information for marketing purposes in accordance with this Policy, you can opt out of future use at any time by: (a) going to the link provided at the bottom of any email you receive and opting out of receiving future information.
+or (b) contacting us via the email address at the bottom of this page.",50, xda-developers,805,https://www.xda-developers.com/xda-developers-privacy-policy/,approved
+10296,148,neutral,4108.0,"You are also responsible for any content that you post or transmit and, if you create an account, you are responsible for all content posted or transmitted through or by use of your account.</p>",10, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10297,281,neutral,4108.0,"(7) content that offers, promotes, advertises, or provides links to posting or auto-posting products or services, account creation or auto-creation products or services, flagging or auto-flagging products or services, bulk telephone numbers, or any other product or service that if utilized with respect to our sites and services would violate these TOU or our other legal rights.
+and (8) content that offers, promotes, advertises or provides links to unsolicited products or services.</p>",25, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10298,290,bad,4108.0,"KC Online Media, LLC makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>
+",0, xda-developers,805,https://www.xda-developers.com/xda-tos/,approved
+10299,130,bad,4150.0,"By uploading, posting, transmitting, sharing, or otherwise making available to the Services any information or content, or submitting any materials for use on the
+Services, you grant (or warrant that the owner of such rights has expressly granted) XE or its designee a perpetual, royalty-free, irrevocable, fully-paid",50, XE.com,2758,https://www.xe.com/legal/,approved
+10300,146,bad,4150.0,"You agree to indemnify, defend, and hold XE and XE's affiliates, business partners, officers, directors, employees, and agents harmless from any loss, liability,
+claim, action, suit, demand, damage, or expense (including reasonable legal fees, costs of investigation and court costs) asserted by any third party relating
+in any way to, or in respect of, your use of the Services, any third party applications, software, information, content, and/or materials you post or share on or
+through the Services, or breach of these Terms of Use.",60, XE.com,2758,https://www.xe.com/legal/,approved
+10301,227,good,4149.0,HOW WE USE YOUR PERSONAL DATA,30, XE.com,2758,https://www.xe.com/privacy.php,approved
+10302,143,neutral,4150.0,"The Services and all
+Information And Content is provided to you solely for your own personal, non-commercial use and not for purposes of resale, distribution, public display or performance,
+or any other uses by you in any form or manner whatsoever.</",25, XE.com,2758,https://www.xe.com/legal/,approved
+10303,127,bad,4148.0,"In addition to the cookie consent manager on our Website and App, you can control and/or delete cookies through your browser – for details, see aboutcookies.org.
+Generally, you may delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed.
+If you do this, however, you may have to manually adjust some preferences every time you visit our Website or App and some services and functionalities may not work.</p>
+<p",5, XE.com,2758,https://www.xe.com/cookiepolicy.php,approved
+10304,220,bad,4149.0,"Advertisements that appear on the Website or App or otherwise in the Services are generally delivered (or ""served"") directly to you by third party advertisers.
+These third party advertisers have no access to the information you have provided directly to XE.</p>
+<p>If you have provided your consent by accepting “Targeting Cookies” through the Website cookie consent manager or enabled “Targeting” and “Location” on the App, the advertisements that are served may be personalised to you.</p>",40, XE.com,2758,https://www.xe.com/privacy.php,approved
+10305,286,bad,4150.0,"THE SERVICES AND ALL INFORMATION AND CONTENT ARE PROVIDED ON AN ""AS IS"" AND ""AS AVAILABLE"" BASIS",20, XE.com,2758,https://www.xe.com/legal/,approved
+10306,180,bad,4150.0,"reproduce, modify, adapt, publish, sublicense, translate, reformat, create derivative work(s) or adaptation(s) from, and distribute
+such information, content, and/or materials.</p>",50, XE.com,2758,https://www.xe.com/legal/,approved
+10307,374,good,4148.0,These cookies do not remember where you’ve been on the internet or use or store any personally identifiable information.</,50, XE.com,2758,https://www.xe.com/cookiepolicy.php,approved
+10308,279,neutral,4150.0,"ANY THIRD PARTY WEB SITES OR THIRD PARTY APPLICATIONS SOFTWARE AND CONTENT, DIRECTLY OR INDIRECTLY, ACCESSED THROUGH HYPERTEXT LINKS IN THE SERVICES,",50, XE.com,2758,https://www.xe.com/legal/,approved
+10309,288,bad,4150.0,"XE does not guarantee the accuracy, authenticity, timeliness, reliability, appropriateness, correct sequencing, or completeness of any of the Information And
+Content, including without limitation any information posted on XE Community forums.",10, XE.com,2758,https://www.xe.com/legal/,approved
+10310,297,good,4149.0,AND HOW DO WE COLLECT IT,50, XE.com,2758,https://www.xe.com/privacy.php,approved
+10311,306,good,4148.0,<p>The cookies placed and read out on the Website and App are categorised below,40, XE.com,2758,https://www.xe.com/cookiepolicy.php,approved
+10312,293,bad,4150.0,"You further agree that XE shall not be responsible or liable, directly or indirectly, in any
+way for any loss or damage of any kind incurred as a result of, or in connection with your use of, or reliance on, any of the Information And Content",50, XE.com,2758,https://www.xe.com/legal/,approved
+10313,325,bad,4148.0,"Analytics cookies
+<p>If you have accepted these cookies through our cookie consent manager, analytics cookies help us offer you a better user experience, allow us to count visits and determine where users are coming from.",10, XE.com,2758,https://www.xe.com/cookiepolicy.php,approved
+10314,307,bad,4149.0,"We make use of Facebook Ads to allow us to better serve relevant advertising to our customers on the Facebook social media platform.
+Through the use of cookies, we can identify aspects of your usage of the Website / App which can allow Facebook to identify which XE ads could be more relevant to you.</p>
+<p>You can review the Facebook privacy policy and modify your Facebook Ad Preferences for ads shown to you by Facebook.</p>
+<",50, XE.com,2758,https://www.xe.com/privacy.php,approved
+10315,376,bad,4149.0,We may collect and process the following personal data:</p>,70, XE.com,2758,https://www.xe.com/privacy.php,approved
+10316,399,neutral,4149.0,"Personal details, such as data which may identify you.
+This may include your name, title, residential and/or business address, email, telephone and other contact data, signature, IP address and travel details (such as destination country or trip details) (“Identity Personal Data”).</",0, XE.com,2758,https://www.xe.com/privacy.php,approved
+10317,400,bad,4149.0,"<li>If you have provided your consent for us to collect such information and not withdrawn such consent, non-identifiable GPS-based location details whilst using the Website or App (“Location Data”).</li>",45, XE.com,2758,https://www.xe.com/privacy.php,approved
+10318,375,neutral,4148.0,"However, as described in “XE’S USE OF COOKIES” below, you should understand that if you choose not to accept cookies, some services that may be offered through a website may not function properly or optimally, you will not be permitted to access certain secured areas or there may be other effects on your browsing experience.</",50, XE.com,2758,https://www.xe.com/cookiepolicy.php,approved
+10319,402,good,4150.0,"non-exclusive,
+worldwide right and license to use,",10, XE.com,2758,https://www.xe.com/legal/,approved
+10320,403,bad,4150.0,"You agree to review these Terms of Use from time to time and agree that any subsequent use by you of the Services following the New Effective Date shall constitute
+your acceptance of all such Changes.",50, XE.com,2758,https://www.xe.com/legal/,approved
+10321,300,good,4149.0,"<p>If you have any questions or concerns about this Privacy Notice or our data practices, please contact us in writing by email at dataprotection@xe.com or by post to XE Privacy Office, 1145 Nicholson Rd, Suite 200, Newmarket, ON, L3Y 9C3 Canada.",30, XE.com,2758,https://www.xe.com/privacy.php,approved
+10322,228,good,4149.0,WHAT PERSONAL DATA DO WE COLLECT,30, XE.com,2758,https://www.xe.com/privacy.php,approved
+10323,163,neutral,4150.0,"These Terms of Use shall be governed by and construed in accordance with the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to conflict of laws provisions thereto.",0, XE.com,2758,https://www.xe.com/legal/,approved
+10324,223,good,4149.0,"<p>All marketing e-mails you receive from us will include specific instructions on how to unsubscribe and you may unsubscribe at any time or alternatively you can unsubscribe from marketing at any time by contacting us in writing by email at dataprotection@xe.com or by post to XE Privacy Office, 1145 Nicholson Rd, Suite 200, Newmarket ON, L3Y 9C3 Canada.",10, XE.com,2758,https://www.xe.com/privacy.php,approved
+10325,185,bad,4149.0,How we use personal data,40, XE.com,2758,https://www.xe.com/privacy.php,approved
+10326,123,good,4150.0,"You will be notified of any Changes through a posting on the Web Site, a notification in the Services, or via e-mail.
+Any Changes shall be effective THIRTY (30)
+days following the posting of such Changes (the ""New <strong>Effective Date</strong>"").",15, XE.com,2758,https://www.xe.com/legal/,approved
+10327,166,bad,4149.0,"
+<p>We may share personal data we collect with third party service providers to manage, enable or facilitate certain aspects of the Services we provide and if we do so, we will have safeguards in place with such third party service providers requiring them to protect the personal data.</p>
+<p>We use advertising services suppliers on our Website and App, such as Exponential Interactive, Inc.
+(“Exponential”) and MoPub, a division of Twitter, Inc.
+and Twitter International Company (“MoPub”), who, along with their advertising partners, may collect and use personal data when you interact with our Website or App.",70, XE.com,2758,https://www.xe.com/privacy.php,approved
+10328,187,bad,4149.0,"Personal data collected through our Website or App is typically stored and processed in Canada.
+however, in some instances, it may be transferred, stored, and/or processed outside of Canada (see section 5 for further details).</",25, XE.com,2758,https://www.xe.com/privacy.php,approved
+10329,281,neutral,4150.0,"upload, post, transmit, share, or otherwise make available any unsolicited or unauthorized advertising, solicitations, promotional materials, ""junk mail"", ""spam"", ""chain letters"", ""pyramid schemes"", or any other form of solicitation,",25, XE.com,2758,https://www.xe.com/legal/,approved
+10330,150,neutral,4150.0,"<b>use any automatic or manual process to collect, harvest, gather, or extract information about other visitors to or users of the Services, or otherwise systematically extract data or data fields, including without limitation any financial and/or currency data or e-mail addresses;",20, XE.com,2758,https://www.xe.com/legal/,approved
+10331,126,neutral,4148.0,As “strictly necessary” cookies are required for the operation of the Website and App they are automatically enabled on the Website and App.,10, XE.com,2758,https://www.xe.com/cookiepolicy.php,approved
+10332,146,bad,3031.0,"You agree to indemnify, defend, and hold harmless Comcast (including its parents, subsidiaries, and affiliates and all of their respective officers, directors, employees, agents, licensors, suppliers and any third-party information providers) against all claims, losses, expenses, damages and costs (including reasonable attorney fees) resulting from any breach of the Terms by you or any individual with whom you share your Comcast Web Services account or an Activated Device.",60, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10333,138,neutral,3031.0,"If you are the owner of a copyrighted work and believe your rights under U.S.
+copyright law have been infringed by any material on the Comcast Web Services, you may take advantage of certain provisions of the Digital Millennium Copyright Act (the ""DMCA"") by sending Comcast's authorized agent a notification of claimed infringement that satisfies the requirements of the DMCA.",10, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10334,139,bad,3031.0,"<p>If you post any content to the Comcast Web Services, you hereby grant Comcast and its licensees a worldwide, perpetual, royalty-free, non-exclusive right and license to use, reproduce, publicly display, publicly perform, modify, sublicense, and distribute the content, on or in connection with the Comcast Web Services or the promotion of the Comcast Web Services, and incorporate it in other works, in whole or in part, in any manner.",50, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10335,238,neutral,3031.0,"submit any material that is unlawful, obscene,",0, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10336,143,neutral,3031.0,"Comcast grants you a limited, non-exclusive, non-assignable license to view the Content and to use the Comcast Web Services for personal, non-commercial purposes as set forth in these Terms or in a manner that does not require a license.",25, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10337,201,bad,3031.0,"If you breach any provision of these Terms or other applicable policies, or for any other reason, Comcast reserves the right to restrict, suspend, or terminate your registered user account for any or all of the Comcast Web Services and terminate the Terms.
+We may take these actions with or without notice to you.
+Because registered users are known to us, however, we will generally use reasonable efforts to give notice of these actions.</p>",60, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10338,285,bad,3031.0,"<li>restrict, inhibit, or otherwise interfere with the ability of any other person, regardless of intent, purpose or knowledge, to use or enjoy the Comcast Web Services (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or generating levels of traffic sufficient to impede others' ability to use, send, or retrieve information;",25, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10339,286,bad,3031.0,"YOU UNDERSTAND AND AGREE THAT THE COMCAST WEB SERVICES ARE PROVIDED TO YOU ""AS IS,"" ""WITH ALL FAULTS,"" AND ""AS AVAILABLE.""",20, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10340,287,bad,3031.0,"COMCAST AND ITS AGENTS AND LICENSORS CANNOT AND DO NOT WARRANT THE ACCURACY, COMPLETENESS, USEFULNESS, TIMELINESS, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE INFORMATION AVAILABLE THROUGH THE COMCAST WEB SERVICES.
+COMCAST AND ITS AGENTS AND LICENSORS CANNOT AND DO NOT WARRANT THAT THE COMCAST WEB SERVICES WILL CONTINUOUSLY BE AVAILABLE OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS.",30, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10341,280,neutral,3031.0,"use the Comcast Web Services to undertake or accomplish any unlawful purpose including, but not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S.
+law, order, or regulation;</li>
+<li>post, store, send, transmit, or disseminate on the Comcast Web Services any information or material which a reasonable person could deem to be unlawful;</li>",10, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10342,288,bad,3031.0,"BECAUSE OF THE NUMBER OF POSSIBLE SOURCES OF INFORMATION AVAILABLE THROUGH THE COMCAST WEB SERVICES, AND THE INHERENT HAZARDS AND UNCERTAINTIES OF ELECTRONIC DISTRIBUTION, THERE MAY BE INTERRUPTIONS, DELAYS, OMISSIONS, INACCURACIES, OR OTHER PROBLEMS WITH THIS INFORMATION.
+IF YOU RELY ON THE COMCAST WEB SERVICES OR ANY MATERIAL AVAILABLE THROUGH THEM, YOU DO SO AT YOUR OWN RISK.",10, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10343,295,neutral,3031.0,"You agree that if Comcast does not exercise or enforce any contractual or legal right or remedy to which it is entitled, this will not be taken to be a formal waiver of Comcast's rights and that those rights or remedies will still be available to Comcast.</p>",10, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10344,331,neutral,3031.0,"Revised and Effective: October 21, 2019",50, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10345,329,neutral,3031.0,"Comcast reserves the right to change these Terms.
+When we do change them, we will make a copy of the updated Terms available to you by posting it at http://my.xfinity.com/terms/web/, in Xfinity My Account, or through other methods.
+If we make material changes to these Terms, we will also notify you in Xfinity My Account, by email, direct mail, or other reasonable methods that we select.",50, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10346,335,good,3031.0,"IF YOU DO NOT WISH TO ARBITRATE DISPUTES YOU MAY DECLINE TO HAVE YOUR DISPUTES WITH COMCAST ARBITRATED BY NOTIFYING COMCAST IN WRITING WITHIN 30 DAYS OF THE LATER OF YOUR FIRST ACCESS TO OR USE OF THE COMCAST WEB SERVICES, OR APRIL 5, 2013, BY VISITING WWW.COMCAST.COM/WEBARBOPTOUT, OR BY MAIL TO COMCAST 1701 JOHN F.
+KENNEDY BLVD., PHILADELPHIA, PA 19103-2838, ATTN: LEGAL DEPARTMENT/ARBITRATION.",50, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10347,310,neutral,3031.0,"Upon Comcast's receipt of a satisfactory notice of claimed infringement, Comcast will respond expeditiously either directly or indirectly (i) to remove the allegedly infringing work(s) from the Comcast Web Services or (ii) to disable access to the work(s).",15, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10348,202,blocker,3031.0,Comcast further reserves the right to delete or remove any content from the forums or blogs without prior notice or liability.,50, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10349,163,neutral,3031.0,"The Terms, and your relationship with Comcast under the Terms, shall be governed by the laws of the Commonwealth of Pennsylvania, without regard to its conflict of laws provisions.",0, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10350,119,good,3031.0,Comcast will receive any feedback you provide under the terms at http://my.xfinity.com/terms/feedback/.,30, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10351,117,bad,3031.0,"THERE SHALL BE NO RIGHT OR AUTHORITY FOR ANY CLAIMS TO BE ARBITRATED OR LITIGATED ON A CLASS ACTION, JOINT OR CONSOLIDATED BASIS OR ON BASES INVOLVING CLAIMS BROUGHT IN A PURPORTED REPRESENTATIVE CAPACITY ON BEHALF OF THE GENERAL PUBLIC (SUCH AS A PRIVATE ATTORNEY GENERAL), OTHER SUBSCRIBERS, OR OTHER PERSONS.",50, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10352,148,neutral,3031.0,"you agree that you will be solely responsible to Comcast for all activities that occur under your Comcast Web Services accounts, including the activities of any individual with whom you share your Comcast Web Services account or an Activated Device, and will be responsible for any breach of these Terms caused by these activities.",10, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10353,151,bad,3031.0,YOU WAIVE THE RIGHT TO ASSERT A CLAIM AGAINST COMCAST MORE THAN TWELVE (12) MONTHS AFTER THE FIRST EVENT OR FACT THAT GIVES RISE TO THE CLAIM.,50, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10354,152,neutral,3031.0,"Children under the age of 13 should not post in any of the forums, boards, chat rooms, blogs, or other editorial sections of the Comcast Web Services.",15, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10355,281,neutral,3031.0,"post on or distribute through the Comcast Web Services unsolicited bulk or commercial messages commonly known as ""spam;""</li>
+<li>send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupt a blog, newsgroup, chat, or similar feature of the Comcast Web Services;</li>",25, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10356,150,neutral,3031.0,"participate in the collection of very large numbers of email addresses, screen names, or other identifiers of others (without their prior consent) from the Comcast Web Services, a practice sometimes known as spidering or harvesting, or participate in the use of software (including ""spyware"") designed to facilitate this activity;",20, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10357,170,good,3031.0,"If you use any of the Comcast Web Services (or parts of those services) as a registered user, you may delete your registered user account at any time.",15, xfinity,489,https://my.xfinity.com/terms/web/,approved
+10358,227,good,1480.0,How we use the personal information that we collect,30, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10359,226,good,1480.0,"All your personal information is stored on secure servers, and protected in controlled facilities.
+We classify your information based on importance and sensitivity, and ensure that your personal information has the required level of security.
+We have special access controls for cloud-based data storage, and we regularly review our information collection, storage and processing practices, including physical security measures, to guard against any unauthorized access and use.",15, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10360,184,good,1480.0,"You have the right to be provided with clear, transparent and easily understandable information about how we use your personal information and your rights.
+This is why we are providing you with the information in this Privacy Policy.
+• Based on the requirements of applicable laws, a copy of your personal data collected and processed by us will be provided to you upon your request free of charge.
+For any extra requests for relevant information, we may charge a reasonable fee based on actual administrative costs according to the applicable laws.",30, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10361,195,good,1480.0,"<p>Depending on applicable laws and regulations, you have the right to access, rectification, and erasure of any other personal information that we hold about you (hereinafter referred to as the request).<br>",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10362,164,bad,1480.0,"
+<p>In accordance with legal requirements, legal procedures, litigation and/or requests from public agencies and government agencies, Xiaomi may need to disclose your personal information.
+If the disclosure is necessary or appropriate for national security, law enforcement, or other matters of public importance, we may also disclose information about you.",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10363,193,good,1480.0,"
+<p>We do not sell any personal information to third parties.",25, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10364,190,neutral,1480.0," Internal purposes such as data analysis, research, and development of statistical information related to the use of our services for improvement.
+",10, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10365,199,good,1480.0,"You have the right to be provided with clear, transparent and easily understandable information about how we use your personal information and your rights.
+This is why we are providing you with the information in this Privacy Policy.",15, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10366,207,neutral,1480.0,"<p>Xiaomi works together with a group of companies forming the Mi Ecosystem.
+",0, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10367,210,good,1480.0,"In addition, our employees and those of our business partners and third party service providers who access your personal information are subject to enforceable contractual obligations of confidentiality.",20, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10368,303,good,1480.0,"We will cease to retain and delete or anonymize personal information once the purpose of collection is fulfilled, or after we confirm your request for erasure, or after we terminate the operation of the corresponding service.
+",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10369,304,bad,1480.0,"An exception to this is personal information that we are processing for public interest, scientific, historical research, or statistical purposes.
+Xiaomi will continue to retain this type of information for longer than its standard retention period, where permitted based on applicable laws or your request, even if further data processing is not related to the original purpose of collection.</p>",40, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10370,337,good,1480.0,"If you no longer wish to allow us sharing this information, please contact us at privacy@xiaomi.com.</p>
+",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10371,325,bad,1480.0,"and our third party service providers and business partners (for more information see “How we share, transfer, and publicly disclose your personal information” below).
+These technologies are used in analyzing trends, administering the site, tracking users’ movements around the website and to gather demographic information about our user base as a whole.
+",10, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10372,336,bad,1480.0,"Conducting relevant promotional activities, such as providing marketing and promotional materials and updates.",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10373,326,bad,1480.0,"We may combine this information with other information (including information across different services or devices such as computers, mobile phones and other connected devices) to provide and improve our services and content.",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10374,312,good,1480.0,"For example, when you access your Mi Account, you can choose to use our two-step verification program for better security.",25, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10375,329,neutral,1480.0,"
+<p>We review the Privacy Policy periodically based on changes in business and technology, and we may update this Privacy Policy.
+If we make a material change to this Privacy Policy, we will notify you via your registered contact information such as email (sent to the email address specified in your account) or publish on Xiaomi websites or notify you via mobile devices so that you can learn about the information we collect and how we use it.",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10376,387,bad,1480.0,"referring/exit pages,",50, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10377,399,neutral,1480.0,"<p>We may collect log information related to your use, such as cookies, IP addresses.</p>
+",0, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10378,228,good,1480.0,What information is collected by us and how do we use it?,30, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10379,223,good,1480.0,"If you no longer wish to receive certain types of promotional materials, you may opt-out by the method provided in the message (such as the unsubscribe link at the bottom of the message) ",10, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10380,232,good,1480.0,"Should you have any questions with our data handling practices as summarized in this Privacy Policy, please contact privacy@xiaomi.com to address your specific concerns.",10, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10381,188,bad,1480.0,"We may sometimes share your personal information with third parties (as described below) in order to provide or improve our services, including offering services based on your requirements.
+",35, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10382,187,bad,1480.0,"<p>Xiaomi processes and backs up personal information through a global operating and control infrastructure.
+Currently, Xiaomi has data centers in the United States, Germany and Singapore.
+For the purposes described in the Privacy Policy, your information may be transferred to these data centers in accordance with applicable law.
+We may also transfer your personal information to third-party service providers and business partners and your data may therefore also be transmitted to other countries or regions.",25, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10383,126,neutral,1480.0,"Technologies such as cookies, tags, and scripts are used by Xiaomi",10, Xiaomi,406,https://www.mi.com/global/about/privacy/,approved
+10384,213,neutral,,"The user is obliged </p> <p> (a) to provide only true and non-misleading statements along with its real name, and to refrain from using pseudonyms or pen names, </p>",10, XING,241,https://groups.google.com/d/msg/tosdr/_he1077OGTY/MilMakLnbCsJ,approved
+10385,331,neutral,4871.0,"Updated: <i>May 5th, 2018",50, XML Sitemaps,3062,https://www.xml-sitemaps.com/privacy-policy.html,approved
+10386,237,neutral,604.0,"You agree that the Terms of Service, your use of the Website, as well as any claim relating to, arising out of, or in connection with the Terms of Service and your use of the Website, shall be governed by the laws of the Czech Republic, without regard to conflict of law provisions",0, XVideos,733,https://info.xvideos.com/legal/tos,approved
+10387,155,good,1301.0,"In addition, Xvideos allows its users to submit counter-notifications when their uploaded material has been mistakenly removed pursuant to a takedown notice.",20, XVideos,733,https://info.xvideos.com/legal/piracy,approved
+10388,183,good,604.0,"and</li>
+<li>your Submission is compliant with all laws, including, but not limited to, 18 U.S.C.
+§ 2257 and 28 C.F.R 751.
+and</li>
+<li>you retain all of your ownership rights in your Submissions",50, XVideos,733,https://info.xvideos.com/legal/tos,approved
+10389,319,neutral,1301.0,"When a user is banned, he or she may not continue to upload content or re-register.",20, XVideos,733,https://info.xvideos.com/legal/piracy,approved
+10390,331,neutral,603.0,"If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Website and update the “Last Updated” date at the top of this Privacy Policy.",50, XVideos,733,https://info.xvideos.com/legal/privacy,approved
+10391,382,bad,603.0,"3.2 In addition, we use Google Analytics, a web analytics service provided by Google, Inc.
+(hereinafter referred to as ""<strong>Google</strong>""), using third-party cookies that enable Google to analyze the use of the Website.
+",50, XVideos,733,https://info.xvideos.com/legal/privacy,approved
+10392,382,bad,603.0,"1.3 Information We Collect from Third Parties.
+<p>We may collect information, including personal information that others provide about you when they use the Website, or obtain information from other sources and combine that with information we collect through the Website.",50, XVideos,733,https://info.xvideos.com/legal/privacy,approved
+10393,399,neutral,603.0,"<strong>Geo-location Information.</strong> When you use certain features of the Website, we may collect information about your approximate location as determined through data such as your IP address.",0, XVideos,733,https://info.xvideos.com/legal/privacy,approved
+10394,223,good,603.0,You can opt-out of receiving marketing communications from us by following the unsubscribe instructions included in our marketing communications or changing your notification settings within your account.,10, XVideos,733,https://info.xvideos.com/legal/privacy,approved
+10395,323,bad,1301.0,"For example, Xvideos was the first to implement fingerprinting technology to inhibit the uploading of infringing content owned by others.",50, XVideos,733,https://info.xvideos.com/legal/piracy,approved
+10396,323,bad,603.0,"We use cookies and other similar technologies, such as web beacons, pixels, and mobile identifiers.",50, XVideos,733,https://info.xvideos.com/legal/privacy,approved
+10397,333,bad,603.0,"Please note that if you request the erasure of your personal information:</p>
+<ul>
+<li>
+<p>We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety.
+For example, if we suspend an account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.",70, XVideos,733,https://info.xvideos.com/legal/privacy,approved
+10398,145,bad,604.0,"agree to indemnify and hold Provider and its owners, affiliates, and/or licensors, harmless to the fullest extent allowed by law regarding all matters related to your use of the Website",40, XVideos,733,https://info.xvideos.com/legal/tos,approved
+10399,152,neutral,604.0,"Access
+<p>By accessing the Website, you certify that:</p>
+<ul>
+<li>you are at least 18 years of age or otherwise the age of majority under the laws of your state, province or country.
+and</li>
+<li>you know and understand that the materials presented at and/or downloadable from the Website include explicit visual, audio, and/or textual depictions of nudity and explicit sexual activities",15, XVideos,733,https://info.xvideos.com/legal/tos,approved
+10400,280,neutral,3448.0,"If your use of the Services is prohibited by applicable laws, then you aren’t authorized to use the Services.",10, Yagpdb,2508,https://yagpdb.xyz/terms-of-use,approved
+10401,311,good,3447.0,"we don’t share your personally identifying information with any third-parties,",50, Yagpdb,2508,https://botlabs.gg/privacy-policy/,approved
+10402,303,good,3447.0,We only retain collected information for as long as necessary to provide you with your requested service.,50, Yagpdb,2508,https://botlabs.gg/privacy-policy/,approved
+10403,331,neutral,3448.0,"Effective date: June 19, 2020",50, Yagpdb,2508,https://yagpdb.xyz/terms-of-use,approved
+10404,339,bad,3448.0,"YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATIO",50, Yagpdb,2508,https://yagpdb.xyz/terms-of-use,approved
+10405,117,bad,3448.0,YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.,50, Yagpdb,2508,https://yagpdb.xyz/terms-of-use,approved
+10406,148,neutral,3448.0,"You must protect the security of your Third Party Account credentials and password and any other access tools or credentials.
+You’re responsible for any activity associated with your account.",10, Yagpdb,2508,https://yagpdb.xyz/terms-of-use,approved
+10407,150,neutral,3448.0,"“crawls,” “scrapes,” or “spiders” any page, data, or portion of or relating to the Services or Content (through use of manual or automated means).",20, Yagpdb,2508,https://yagpdb.xyz/terms-of-use,approved
+10408,149,bad,16.0,"TO THE FULLEST EXTENT PERMITTED BY LAW AND EXCEPT AS OTHERWISE STATED IN SECTION 14, VERIZON MEDIA ENTITIES ARE NOT LIABLE IN CONNECTION WITH ANY DISPUTES THAT ARISE OUT OF OR RELATE TO THESE TERMS OR SERVICES FOR ANY AMOUNT GREATER THAN THE AMOUNT YOU PAID TO US FOR THE SERVICES.</p>
+</li>
+<li>
+<p>",10, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10409,129,bad,17.0,"<p>We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services)",60, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10410,173,bad,16.0,"perpetual, ",25, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10411,146,bad,16.0,"If you are using the Services on behalf of a company, business or other entity, or if you are using the Services for commercial purposes, you and the entity will hold harmless and indemnify the&nbsp;Verizon Media&nbsp;Entities (defined in Section 8 below) from any suit, claim or action arising from or related to the use of the Services or violation of these Terms, including any liability or expense arising from claims (including claims for negligence), losses, damages, suits, judgments, litigation costs and attorneys’ fees.</p>
+",60, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10412,239,bad,17.0,"
+<p>When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).</p>
+</li>
+<li>
+<p>Verizon Media analyzes and stores all communications content, including email content from incoming and outgoing mail.
+This allows us to deliver, personalize and develop relevant features, content, advertising and Services.</p>
+</li>
+<li>",70, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10413,139,bad,16.0,"to (a) use, host, store, reproduce, modify, prepare derivative works (such as translations, adaptations, summaries or other changes), communicate, publish, publicly perform, publicly display, and distribute this content in any manner, mode of delivery or media now known or developed in the future.",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10414,134,bad,16.0,"transferable, sublicensable license",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10415,227,good,17.0,"How We Use This Information</strong>
+",30, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10416,201,bad,16.0,"li>
+<p>Unless stated differently for your country in Section 14, we may temporarily or permanently suspend or terminate your account or impose limits on or restrict your access to parts or all of the Services at any time, without notice and for any reason, including, but not limited to, violation of these Terms, court order, or inactivity",60, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10417,220,bad,17.0,"We also may use the information we have about you for the following purposes:&nbsp;</p>
+<ol>
+<li>
+<p>Provide, maintain, improve, and develop relevant features, content, and Services.</p>
+</li>
+<li>
+<p>Analyze your content and other information (including emails, instant messages, posts photos, attachments, and other communications).
+You can review and control certain types of information tied to your Verizon Media&nbsp;account by using Privacy Controls.&nbsp;</p>
+</li>
+<li>
+<p>Fulfill your requests and when authorized by you.&nbsp;</p>
+</li>
+<li>
+<p>Help advertisers and publishers connect to offer relevant advertising in their apps and websites.</p>
+</li>
+<li>
+<p>Match and serve targeted advertising (across devices and both on and off of our Services) and provide targeted advertising&nbsp;based on your device activity, inferred interests and location information.</p>
+",40, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10418,278,neutral,16.0,LINKS PROVIDED BY THE SERVICES OR THIRD PARTIES TO EXTERNAL SITES OR RESOURCES.,50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10419,286,bad,16.0,"WE PROVIDE OUR SERVICES “AS-IS,” “WITH ALL FAULTS,” AND “AS AVAILABLE.” YOUR USE OF THE SERVICES, INCLUDING CONTENT WITHIN THE SERVICES, IS AT YOUR OWN RISK",20, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10420,287,bad,16.0,"WE DO NOT REPRESENT, PROMISE, OR WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE.",30, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10421,193,good,17.0,"We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Verizon Media unless one of the following circumstances applies",25, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10422,182,bad,16.0,"You agree that any recommendation, idea, proposal, suggestion, feedback or other input (“Feedback”) you submit to us&nbsp;related to our&nbsp;products, services, websites, apps, or technology may be used by us&nbsp;without any notice, obligation, restriction, reimbursement or compensation to you and you waive (or agree not to enforce) any and all rights that may now or in future exist (including moral and equivalent rights) in any Feedback.</p>
+",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10423,186,bad,16.0,THE UNAUTHORIZED ACCESS TO YOUR ACCOUNT OR ANY DATA MAINTAINED OR TRANSMITTED BY THE SERVICES.,30, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10424,190,neutral,17.0,These analytics and reports may include aggregate or pseudonymized information.</p>,10, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10425,288,bad,16.0,"WE MAKE NO COMMITMENTS, PROMISES OR WARRANTIES ABOUT THE CONTENT WITHIN THE SERVICES OR CONTENT LINKED FROM THE SERVICES, THE SUPPORT WE PROVIDE FOR THE SERVICES, THE SPECIFIC FUNCTIONS OF THE SERVICES, THE SECURITY OF THE SERVICES, OR THE SERVICES’ RELIABILITY, QUALITY, ACCURACY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS, PROVIDE CERTAIN OUTPUTS OR ACHIEVE CERTAIN RESULTS.</p>
+</li>
+",10, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10426,183,good,16.0,"Except as otherwise provided in the specific&nbsp;product terms or guidelines for&nbsp;one of our Services, when you upload, share with or submit content to the Services you retain ownership of any intellectual property rights that you hold in that content",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10427,293,bad,16.0,"TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE AND UNDERSTAND THAT VERIZON MEDIA&nbsp;ENTITIES WILL NOT BE LIABLE FOR: ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, TREBLE OR OTHER MULTIPLES OF DAMAGES, EXEMPLARY OR PUNITIVE DAMAGES ARISING FROM OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF THE SERVICES.",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10428,295,neutral,16.0,Our&nbsp;failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision.,10, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10429,128,bad,17.0,"<p>We allow other companies&nbsp;that show advertisements on our webpages or apps to collect information from your browsers or devices.&nbsp;Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.",70, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10430,331,neutral,17.0,"
+<em>Last updated: October&nbsp;2020</em>
+</p>",50, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10431,336,bad,17.0,We may recognize your devices to provide you with personalized experiences and advertising across the devices you use,50, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10432,326,bad,17.0,"We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in.",50, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10433,329,neutral,16.0,"Unless stated differently for your country in Section 14, we may modify the Terms from time to time.
+Unless we indicate otherwise, modifications will be effective as of the date they are posted on this page or any successor page.
+You should look at the Terms regularly.
+We will provide notice (in accordance with Section 3(c) above) of material modifications.</p>
+</li>",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10434,339,bad,16.0,"YOU AND </strong>
+<strong>VERIZON MEDIA</strong>&nbsp;<strong>BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (“DISPUTE(S)”), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT.
+",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10435,382,bad,3078.0,Verizon Media may receive location data from third parties that you have linked your account with.,50, Yahoo!,309,https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/location/index.html,approved
+10436,384,neutral,16.0,"We use auto-renewal for many of our fee-based Services.
+At the expiration of each subscription term for such fee-based Services, we will automatically renew your subscription and charge the credit card or other payment method you have provided to us, unless you cancel your subscription at least 48 hours before the end of the current period.",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10437,387,bad,17.0,"
+<p>This information also includes the kind of content or ads served, viewed or clicked on.
+the frequency and duration of your activities.
+the sites or apps you used before accessing our Services and where you went next.",50, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10438,234,blocker,17.0,"(Please note, when you&nbsp;use our Services, we may recognize you or your devices even if you are not signed in to our Services.)",100, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10439,399,neutral,17.0,"This information includes device specific identifiers and information such as IP address, ",0, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10440,398,neutral,16.0,"All charges are nonrefundable unless provided otherwise in the terms you agree to when you register for a fee-based Service, unless stated differently for your country in Section 14 or as otherwise specified below.</p>
+</li>
+",40, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10441,402,good,16.0," you grant&nbsp;to us&nbsp;a worldwide, royalty-free, non-exclusive,",10, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10442,203,bad,16.0,"We, in our sole discretion, may change, discontinue or terminate any or all aspects of a fee-based Service without notice, including access to support services, content and other products or services ancillary to the fee-based Service, subject to providing an appropriate refund for any portions of a specified but no longer available term.",40, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10443,228,good,17.0,"
+<li>
+<strong>Information Collection",30, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10444,373,bad,3078.0,"<p>Verizon Media may access, store, and use the location information described above to provide Services such as: enhanced location based services, serve location-targeted advertising, search results, and other content.
+Verizon Media may maintain a history of your locations.
+Refer to the ""Managing Your Location Information"" section below for more details on your control of this information.</p>
+<p>Other uses of location information may include determining the appropriate language for presenting a website, conducting product analysis, and assisting in the detection of fraud and abuse.</p>",75, Yahoo!,309,https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/location/index.html,approved
+10445,323,bad,17.0,"Verizon Media&nbsp;may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.</p>",50, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10446,216,bad,17.0,"Provide location-based Services, advertising, search results, and other content consistent with your location settings.</p>
+",30, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10447,322,bad,17.0,"This information includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.",80, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10448,188,bad,17.0,"We may associate activity and accounts under a single user ID.&nbsp;</p>
+</li>
+<li>
+<p>Carry out or support promotions.</p>
+</li>
+<li>
+<p>Conduct research and support innovation.&nbsp;</p>
+</li>
+<li>
+<p>Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties&nbsp;and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences.
+",35, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10449,117,bad,16.0,"
+<u>CLASS ACTION WAIVER FOR U.S.
+USERS</u>
+</strong>
+<strong>.
+THESE TERMS DO&nbsp;<u>NOT</u>&nbsp;ALLOW CLASS OR COLLECTIVE ARBITRATIONS, EVEN IF THE AAA PROCEDURES OR RULES WOULD.",50, Yahoo!,309,https://policies.oath.com/us/en/oath/terms/otos/index.html,approved
+10450,126,neutral,17.0,"where Verizon Media&nbsp;data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present.
+",10, Yahoo!,309,https://policies.oath.com/us/en/oath/privacy/index.html,approved
+10451,193,good,1442.0,we don’t sell that information,25, Yakka,1605,https://yakka.agency/privacy,approved
+10452,199,good,1442.0,"Let’s keep things simple</strong>.</p>
+<p>We <em>could</em> write a long winded Privacy Policy full of legal jargon and hithertos but we wanted to try to just communicate in plain english",15, Yakka,1605,https://yakka.agency/privacy,approved
+10453,218,good,1442.0,We don’t track you,100, Yakka,1605,https://yakka.agency/privacy,approved
+10454,119,good,1442.0,"That said, if we get something wrong or you feel like we’re not addressing something <strong>please reach out immediately</strong>",30, Yakka,1605,https://yakka.agency/privacy,approved
+10455,383,good,1442.0,"If you want to opt out of this, enable the <strong>Do Not Track</strong> setting in your browser then we won’t count you.",30, Yakka,1605,https://yakka.agency/privacy,approved
+10456,220,bad,3006.0,"<li>(third party) tracking / advertising cookies: these cookies collect information about users, sources of traffic, page visits and advertising displayed to you and followed by you.
+They enable us to display advertising which may be of interest to you based on collected Personal information.",40, Yandex,860,https://yandex.com/legal/confidential/,approved
+10457,286,bad,792.0,"he Site and the Services are provided to you on “as is”, “as available” and “with all faults” basis and you use Content, the Site and the Services exclusively at your own risk without any express or implied representations and/or warranties of any kind by Yandex, Company and/or Partners including,",20, Yandex,860,https://yandex.com/legal/termsofservice/,approved
+10458,280,neutral,792.0,"In particular, under no circumstance you shall use the Site or the Services to:</p>
+<p>3.2.1.
+upload, download, post, transfer, send, transmit, distribute, email, link to or make available in any other way (hereinafter — “<strong>Make Available</strong>”) any images, photos, text, video, data, software, audio, sound, music, databases, links or other information (hereinafter — “<strong>Content</strong>”) that is illegal",10, Yandex,860,https://yandex.com/legal/termsofservice/,approved
+10459,189,neutral,3006.0,"How Yandex protects your Personal information <p>In most cases, Personal information is processed automatically without access to it by our staff.
+However, if such access is necessary, your Personal information can be accessed only by those Yandex employees whose professional tasks require using this information.
+To protect your Personal information and ensure its confidentiality, these employees must comply with internal rules and follow protocols for processing Personal information.",30, Yandex,860,https://yandex.com/legal/confidential/,approved
+10460,331,neutral,792.0," Terms of Service <p>Effective Date: December 8, 2020</p>",50, Yandex,860,https://yandex.com/legal/termsofservice/,approved
+10461,336,bad,3006.0,"Yandex may also transfer Personal information to third parties outside the Yandex Group to complete the purposes listed in Section 5 above.
+Please note that the level of protection of Personal Information in some countries may not be identical to the level in your jurisdiction and by using the Services you consent to such transfer.
+Such third parties may include:</p>
+<p>i.
+Partners, such as media publishers, advertising networks and other partners providing Yandex with services related to the placement and display of advertisement on the websites, programs, products and/or services owned or operated by such Partners, taxi companies operating the taxi Services",50, Yandex,860,https://yandex.com/legal/confidential/,approved
+10462,283,neutral,792.0,"harmful, slanderous, unethical, defamatory, harassing, threatening or infringing upon intellectual property rights, rights of privacy or publicity of third parties, Yandex, Company and/or Partners, incites hatred, bigotry, racial, ethnic, sexual, religious or social discrimination or is insulting to any persons, groups and/or entities;</p>
+",20, Yandex,860,https://yandex.com/legal/termsofservice/,approved
+10463,329,neutral,3006.0,"Yandex shall be entitled to make such amendments at its own discretion, including, without limitation, to reflect changes in applicable legislation or amendments to the Sites and/or Services.</p>
+<p>Yandex undertakes not to introduce significant changes, imposing additional obligations or reducing your rights under this Policy without proper notice to you.
+You will be notified about such changes.",50, Yandex,860,https://yandex.com/legal/confidential/,approved
+10464,395,blocker,3006.0," to personalize advertisements and/or commercial offers based on your preferences, search history and other Personal information available to Yandex.;</p>
+",50, Yandex,860,https://yandex.com/legal/confidential/,approved
+10465,382,bad,3006.0,"Also, Personal information can be obtained by Yandex through its partners (“Partners”), such as advertising partners or taxi service providers, who provide you with access to or let you use websites,",50, Yandex,860,https://yandex.com/legal/confidential/,approved
+10466,241,good,792.0,"You and Yandex hereby acknowledge and agree that this Agreement shall be construed and governed in accordance with substantial laws of Switzerland, without giving regard to its conflict of laws rules.
+Any claim, controversy or dispute arising out of or in relation of this Agreement or Additional Policies shall be exclusively referred for resolution to the state courts of Switzerland.
+To the extent permitted by applicable law, you hereby expressly and irrevocably agree to submit to the jurisdiction of the state courts of Switzerland with respect to any claim, controversy or dispute arising out or in relation of this Agreement.",50, Yandex,860,https://yandex.com/legal/termsofservice/,approved
+10467,323,bad,3006.0,andex uses cookies and web beacons (including pixel tags) to collect your Personal information and associate this Personal information with your device and web browser,50, Yandex,860,https://yandex.com/legal/confidential/,approved
+10468,239,bad,84.0,"If you exchange messages with others through the Service, we may store them in order to process and deliver them, allow you to manage them, and we may review and disclose them in connection with investigations related to use of the Service, as well as our efforts to improve the Service.",70, yelp,461,http://www.yelp.com/static?p=privacy&country=US,approved
+10469,198,neutral,85.0,We may translate these Terms into other languages for your convenience.,0, yelp,461,http://www.yelp.com/static?p=tos,approved
+10470,117,bad,85.0,"YOU WAIVE YOUR RIGHT TO BRING OR PARTICIPATE IN ANY CLASS, GROUP, OR REPRESENTATIVE ACTION OR PROCEEDING.",50, yelp,461,https://terms.yelp.com/tos/en_us/20200101_en_us/,approved
+10471,152,neutral,84.0,The Service is intended for general audiences and is not directed to children under 13.,15, yelp,461,https://terms.yelp.com/privacy/en_us/20200101_en_us/,approved
+10472,118,blocker,85.0,"Finally, you irrevocably waive, and cause to be waived, against Yelp and its users any claims and assertions of moral rights or attribution with respect to Your Content.",50, yelp,461,https://terms.yelp.com/tos/en_us/20200101_en_us/,approved
+10473,122,neutral,2925.0,We reserve the right to make changes to this privacy policy at any time by giving notice on this page and/or within this Application and/or sending a notice to you via any contact information available to us,0, YNAB,2218,https://www.youneedabudget.com/privacy-policy/,approved
+10474,210,good,2925.0,"We may disclose or transfer personal information that we collect or you provide as described in this privacy policy:</p>
+<ul>
+<li>To contractors, service providers, and other third parties we use to support our business, in particular providing infrastructure and analytics services, and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.</li>",20, YNAB,2218,https://www.youneedabudget.com/privacy-policy/,approved
+10475,243,bad,2925.0,"<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.",50, YNAB,2218,https://www.youneedabudget.com/privacy-policy/,approved
+10476,146,bad,1849.0,"You agree to defend, indemnify and hold harmless the Company, its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys’ fees) arising out of or relating to your violation of these Terms of Service or your use of the Website, including, but not limited to, your User Contributions, any use of the Website’s content, services and products other than as expressly authorized in these Terms of Service or your use of any information obtained from the Website.</p>",60, You Need a Budget,506,https://www.youneedabudget.com/terms/,approved
+10477,127,bad,2470.0,"One way to limit cookies is by opting out of third party cookies/advertising networks, like Google Analytics and the Digital Advertising Alliance.
+If you are in Canada or the EU you can use the DAAC’s youradchoices.ca, or EDAA’s youronlinechoices.eu respectively.
+Some people use what are called “Ad Blockers” to limit advertising/tracking.
+We don’t endorse any <em>particular</em> Ad Blocker, but want you to know that it’s an option since you’re reading this and are likely quite privacy-minded.",5, You Need a Budget,506,https://www.youneedabudget.com/privacy-policy/,approved
+10478,195,good,2470.0,"We retain account data for a period of time after an account expires, whether through trial expiration or subscription expiration, unless you delete your account as described below.</p>",50, You Need a Budget,506,https://www.youneedabudget.com/privacy-policy/,approved
+10479,193,good,2470.0,"We do not sell users’ data.
+(And we never have!)",25, You Need a Budget,506,https://www.youneedabudget.com/privacy-policy/,approved
+10480,385,good,2470.0,"<p>Opting out of cookies using the above methods likely won’t cause problems with our services per se, but it makes it harder for us to spend our advertising budget effectively because we won’t know how you discovered YNAB and sometimes won’t even know if you’re already a customer of ours.
+Among other things, that means we might embarrass ourselves by showing you the same advertisement even if you are already a fan.
+Depending on the services you block, it might also make it harder for us to know how you’re using our apps, or know if you’re running into problems.",50, You Need a Budget,506,https://www.youneedabudget.com/privacy-policy/,approved
+10481,163,neutral,1849.0,"<p>All matters relating to the Website and these Terms of Service and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the State of Utah without giving effect to any choice or conflict of law provision or rule.</p>",0, You Need a Budget,506,https://www.youneedabudget.com/terms/,approved
+10482,333,bad,2470.0,"You may withdraw consent for processing in the situations described above.
+Other data processing we conduct is necessary for the fulfillment of our Terms of Service and/or our legitimate interest and/or legal reasons, and deletion of your account and data is required to cease processing.</p>",70, You Need a Budget,506,https://www.youneedabudget.com/privacy-policy/,approved
+10483,152,neutral,1849.0,This Website is offered and available to users who are 13 years of age or older (16 years of age and older in the European Union).,15, You Need a Budget,506,https://www.youneedabudget.com/terms/,approved
+10484,134,bad,121.0,", royalty-free, sublicensable and transferable license to use that Content ",50, YouTube,274,https://www.youtube.com/t/terms,approved
+10485,286,bad,121.0,THE SERVICE IS PROVIDED “AS IS” AND YOUTUBE DOES NOT MAKE ANY SPECIFIC COMMITMENTS OR WARRANTIES ABOUT THE SERVICE.,20, YouTube,274,https://www.youtube.com/t/terms,approved
+10486,287,bad,121.0,OR (C) THAT ANY CONTENT YOU SUBMIT WILL BE ACCESSIBLE ON THE SERVICE.,30, YouTube,274,https://www.youtube.com/t/terms,approved
+10487,180,bad,121.0," in connection with the Service and YouTube’s (and its successors' and Affiliates') business, including for the purpose of promoting and redistributing part or all of the Service.</p>",50, YouTube,274,https://www.youtube.com/t/terms,approved
+10488,205,neutral,121.0,"Terminations and Suspensions by YouTube for Cause</b>
+</p>
+<p>YouTube&nbsp;may suspend or terminate your access, your Google account, or your Google account’s access to all or part of the Service&nbsp;if (a) you materially or repeatedly breach this Agreement;&nbsp;(b) we are required to do so to comply with a legal requirement or a court order.
+or (c) we believe there has been conduct that creates (or could create) liability or harm to any user, other third party, YouTube or our Affiliates.<br>
+</p>
+<p>
+<b>Terminations by YouTube for Service Changes</b>
+</p>
+<p>YouTube may terminate your access, or your Google account’s access to all or part of the Service if YouTube believes, in its sole discretion, that provision of the Service to you is no longer commercially viable.&nbsp;</p>",15, YouTube,274,https://www.youtube.com/t/terms,approved
+10489,288,bad,121.0,"(B) THE SPECIFIC FEATURES OF THE SERVICE, OR ITS ACCURACY, RELIABILITY,",10, YouTube,274,https://www.youtube.com/t/terms,approved
+10490,295,neutral,121.0,"No</b>
+<b>Waiver<br>
+</b>If you fail to comply with this Agreement and we do not take immediate action, this does not mean that we are giving up any rights that we may have (such as the right to take action in the future).</p>",10, YouTube,274,https://www.youtube.com/t/terms,approved
+10491,128,bad,120.0,"Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites.",70, YouTube,274,https://policies.google.com/privacy,approved
+10492,331,neutral,121.0,"<b>Terms of Service</b>
+<p>Dated: November 18, 2020</p>",50, YouTube,274,https://www.youtube.com/t/terms,approved
+10493,336,bad,120.0,"And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.</p>
+<p>Depending on your settings, we may also show you personalized ads based on your interests.",50, YouTube,274,https://policies.google.com/privacy,approved
+10494,314,neutral,1048.0,"Don’t post content on YouTube if it fits any of the descriptions noted below.</p>
+<ul>
+<li>Content produced by violent criminal or terrorist organizations</li>
+<li>Content praising or memorializing prominent terrorist or criminal figures in order to encourage others to carry out acts of violence</li>
+<li>Content praising or justifying violent acts carried out by violent criminal or terrorist organizations</li>
+<li>Content aimed at recruiting new members to violent criminal or terrorist organizations</li>
+<li>Content depicting hostages or posted with the intent to solicit, threaten, or intimidate on behalf of a violent criminal or terrorist organization</li>
+<li>",20, YouTube,274,https://support.google.com/youtube/answer/9229472?hl=en&ref_topic=2803176,approved
+10495,395,blocker,120.0,"The activity information we collect may include:</p>
+<ul>
+<li>Terms you search for</li>
+<li>Videos you watch</li>
+<li>Views and interactions with content and ads</li>
+<li>Voice and audio information when you use audio features</li>
+<li>Purchase activity</li>
+<li>People with whom you communicate or share content</li>
+<li>Activity on third-party sites and apps that use our services</li>
+<li>Chrome browsing history you’ve synced with your Google Account</li>
+",50, YouTube,274,https://policies.google.com/privacy,approved
+10496,382,bad,120.0,"We may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse.",50, YouTube,274,https://policies.google.com/privacy,approved
+10497,399,neutral,120.0,"We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.”",0, YouTube,274,https://policies.google.com/privacy,approved
+10498,402,good,121.0,"By providing Content to the Service, you grant to YouTube a worldwide, non-exclusive",10, YouTube,274,https://www.youtube.com/t/terms,approved
+10499,377,neutral,121.0,"<p>If we reasonably believe that any Content is in breach of this Agreement or&nbsp;may cause harm to YouTube, our users, or third parties, we may remove or take down that Content in our discretion.",50, YouTube,274,https://www.youtube.com/t/terms,approved
+10500,163,neutral,121.0,"The entity providing the Service is Google LLC, a company operating under the laws of Delaware, located at 1600 Amphitheatre Parkway, Mountain View, CA 94043&nbsp;(referred to as “<b>YouTube</b>”, “<b>we</b>”, “<b>us</b>”, or “<b>our</b>”).",0, YouTube,274,https://www.youtube.com/t/terms,approved
+10501,151,bad,121.0,"YOU AND YOUTUBE AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.
+OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.</p>",50, YouTube,274,https://www.youtube.com/t/terms,approved
+10502,152,neutral,121.0,"<b>Age Requirements</b>
+<br>You must be at least 13 years old to use the Service.",15, YouTube,274,https://www.youtube.com/t/terms,approved
+10503,187,bad,120.0,<p>We maintain servers around the world and your information may be processed on servers located outside of the country where you live.,25, YouTube,274,https://policies.google.com/privacy,approved
+10504,290,bad,121.0,"OR ABILITY TO MEET YOUR NEEDS.
+",0, YouTube,274,https://www.youtube.com/t/terms,approved
+10505,174,blocker,121.0,"YouTube may retain, but not display, distribute, or perform, server copies of your videos that have been removed or deleted.",30, YouTube,274,https://www.youtube.com/t/terms,approved
+10506,170,good,121.0,"You may remove your Content from the Service at any time.
+You also have the option to make a copy of your Content before removing it.
+You must remove your Content if you no longer have the rights required by these terms.</p>",15, YouTube,274,https://www.youtube.com/t/terms,approved
+10507,167,good,2068.0,"We will share individual user information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:</li>
+<ul>
+<li>meet any applicable law, regulation, legal process or enforceable governmental request.</li>
+<li>enforce applicable Terms of Service, including investigation of potential violations.</li>
+<li>detect, prevent, or otherwise address fraud, security or technical issues.</li>
+<li>protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law",50, YouTube Kids,1951,https://kids.youtube.com/t/privacynotice,approved
+10508,190,neutral,2068.0,"
+<p>We may share aggregate information about the use of the app with third parties to, for example, show trends about the use of the app or meet our reporting obligations with partners.</p>",10, YouTube Kids,1951,https://kids.youtube.com/t/privacynotice,approved
+10509,296,good,2068.0,"With consent</b>
+</li>
+<li>We may share individual user information with companies, organizations or individuals outside of Google when we have parental consent",80, YouTube Kids,1951,https://kids.youtube.com/t/privacynotice,approved
+10510,331,neutral,2068.0,"Dated: August 7, 2019",50, YouTube Kids,1951,https://kids.youtube.com/t/privacynotice,approved
+10511,376,bad,2068.0,"This information includes:</p>
+<ul>
+<li>device type and settings, such as hardware model and operating system version;</li>
+<li>log information, including details of how our service is used, device event information, and the device's Internet protocol (IP) address;</li>
+<li>unique application numbers, such as application version number.
+and</li>
+<li>unique identifiers, which are used to collect and store information about an app or device, such as preferred language, app activity, and other settings",70, YouTube Kids,1951,https://kids.youtube.com/t/privacynotice,approved
+10512,395,blocker,2068.0,"App activity.</b> This information includes the videos your child watches, their search terms, and other interactions with content and ads in the app.",50, YouTube Kids,1951,https://kids.youtube.com/t/privacynotice,approved
+10513,397,bad,2069.0,"When you are signed into YouTube Kids with your Google account, the information we collect, including your search and watch history and recordings of your voice searches, may be stored with your Google account and used to improve your Google experience.",30, YouTube Kids,1951,https://kids.youtube.com/t/noticeforchildren,approved
+10514,216,bad,2069.0,"We may also use information to help show ads based on the video that you are watching and to limit how frequently you see ads in the app.
+",30, YouTube Kids,1951,https://kids.youtube.com/t/noticeforchildren,approved
+10515,188,bad,2068.0,"
+<li>We may provide individual user information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.</li>",35, YouTube Kids,1951,https://kids.youtube.com/t/privacynotice,approved
+10516,175,good,1001.0,"If you want your feedback to be deleted, send us a request or mention it in the contact form.<",50, Yr.no,1383,https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy,approved
+10517,382,bad,1001.0,"Every time Yr gets weather data for your location, a third part (Akamai) will save this information and your IP-adress for 30 days",50, Yr.no,1383,https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy,approved
+10518,122,neutral,2881.0,"We reserve the right to amend the Privacy Policy at any time by posting such amendments to the Website.
+",0, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10519,139,bad,2881.0,"You irrevocably grant us a world-wide, non-exclusive, royalty-free, perpetual, non-cancelable, sub-licenseable license to reproduce, publicly perform, publicly display, distribute, adapt, modify, publish, translate, create derivative works of and otherwise exploit User Submissions for any purpose, including without limitation any purpose contemplated by the Website and these Terms.",50, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10520,143,neutral,2881.0,You may only access and use the Website for your personal and noncommercial use.,25, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10521,201,bad,2881.0,"</li>
+<li>This grant is terminable by us at will for any reason and at our sole discretion, with or without prior notice.
+Upon termination, we may, but shall not be obligated to: (i) delete or deactivate your account, (ii) block your e-mail and/or IP addresses or otherwise terminate your use of and ability to use the Website, and/or (iii) remove and/or delete any of your User Submissions ",60, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10522,220,bad,2882.0,"They may also be used to provide targeted advertising based on your country of origin and other personal information.
+</p>",40, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10523,286,bad,2882.0,"Any information or content you transmit to us is done at your own risk.
+</p>",20, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10524,164,bad,2882.0,"If you upload, access or transmit any illegal or unauthorized material to or through the Service, or you are suspected of doing such, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
+",50, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10525,190,neutral,2882.0,"We may record information about your usage of the Service such as your search terms, the content you access and download and other statistics.",10, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10526,291,neutral,2881.0,"
+<li>You are entirely responsible for any and all materials you upload, submit, transmit, create, modify or otherwise make available via the Website, including any sound files that you create, modify, transmit or download through the Website (collectively, „User Submissions”).",50, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10527,293,bad,2881.0,You acknowledge that we are not responsible to you or any third party for the termination of your grant of use.</li>,50, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10528,295,neutral,2881.0,<li>Our failure to enforce any provision of these Terms will not be construed as a waiver of any provision or right.</li>,10, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10529,196,good,2882.0,"your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) may be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.",60, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10530,323,bad,2882.0,"We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits,",50, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10531,166,bad,2882.0,"We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.",70, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10532,117,bad,2881.0,YOU AGREE THAT YOU MAY BRING CLAIMS ONLY IN YOUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION.,50, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10533,145,bad,2881.0,"You hereby agree to indemnify us and hold us harmless from any and all damages and third-party claims and expenses, including attorney's fees, arising from your use of the Website and/or from your breach of these Terms.</li>
+",40, YTMP3.CC,2356,https://ytmp3.cc/terms-of-use/,approved
+10534,148,neutral,2882.0,"While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the Internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us.",10, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10535,152,neutral,2882.0,"We expressly and strictly limit use of the Service to adults over 18 years of age or the age of majority in the individual's jurisdiction, whichever is greater.
+Anyone under this age is strictly forbidden from using the Service.",15, YTMP3.CC,2356,https://ytmp3.cc/privacy-policy/,approved
+10536,149,bad,2234.0,"IN NO EVENT WILL YUBICO’S AND ITS AFFILIATES’, AND ITS AND THEIR SUPPLIERS’, DISTRIBUTORS’, RESELLERS’ AND EMPLOYEES’ TOTAL CUMULATIVE LIABILITY RELATING TO THIS AGREEMENT OR THE USE OF THE PRODUCT OR SERVICE EXCEED THE AMOUNT PAID FOR THE PRODUCT.",10, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10537,142,neutral,2234.0,The Limited Warranty extends only to the original purchaser of the Hardware and is non-transferrable.,10, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10538,287,bad,2234.0,"(b) use thereof shall be uninterrupted or error-free,",30, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10539,287,bad,2234.0,"(c) the products or any equipment, system or network on which the Products are used will be free of vulnerability to intrusion or attack,",30, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10540,289,bad,2234.0,(d) or that all programming errors can be found in order to be corrected.,50, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10541,293,bad,2234.0,"IN NO EVENT WILL YUBICO, ITS AFFILIATES, AND ITS AND THEIR SUPPLIERS, DISTRIBUTORS, RESELLERS AND EMPLOYEES BE LIABLE FOR DAMAGES IN RESPECT OF LOST REVENUE, INCIDENTAL, PUNITIVE, EXEMPLARY, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES, EVEN IF ANY OF THEM HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES INCLUDING, BUT NOT LIMITED TO, BUSINESS INTERRUPTION, LOST BUSINESS REVENUE, LOST PROFITS, FAILURE TO REALIZE EXPECTED SAVINGS, ECONOMIC LOSS, LOSS OF DATA, LOSS OF BUSINESS OPPORTUNITY OR ANY CLAIM AGAINST USER BY ANY OTHER PARTY.
+",50, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10542,144,neutral,2234.0,"If you are a U.S.
+resident that has acquired Products as a Consumer Purchaser, you and Yubico agree that any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof or the use of the Software (collectively, “Disputes”) will be settled by binding arbitration",0, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10543,144,neutral,2234.0,"Without limiting the preceding sentence, you will also have the right to litigate any other Dispute if you provide Yubico with written notice of your desire to do so by email to legal@yubico.com within 30 days following the date you first purchase or obtain the Software (such notice, an “Arbitration Opt-out Notice”).
+If you don’t provide Yubico with an Arbitration Opt-out Notice within the 30-day period, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except as expressly set forth in clauses (i) and (ii) above.",0, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10544,196,good,2234.0,We may process your personal data in relation to the performance of this Agreement.,60, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10545,117,bad,2234.0,"Further, unless both you and Yubico otherwise agree in writing, the arbitrator may not consolidate more than one person’s claims and may not otherwise preside over any form of any class or representative proceeding.",50, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10546,290,bad,2234.0,Yubico does not warrant that (a) the products will meet your requirements,0, Yubico,2061,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/,approved
+10547,175,good,2345.0,We will keep any information that you provide to us until such time as you delete your account with the Zapier Service.</p>,50, Zapier,2131,https://zapier.com/privacy,approved
+10548,208,bad,2345.0,"In order to take advantage of this feature, you may need to authenticate, register for or log into Third-Party Services through the Service or on the websites of their respective providers.",50, Zapier,2131,https://zapier.com/privacy,approved
+10549,208,bad,2345.0,"When you enable linking between or log in to Third-Party Services through the Service, we will collect relevant information necessary to enable the Service to access that Third-Party Service and your data and content contained within that Third-Party Service (""Login Credentials"").",50, Zapier,2131,https://zapier.com/privacy,approved
+10550,193,good,2345.0,<p>Zapier will not sell or rent to any third party any of the personal information or data that you provide to us.,25, Zapier,2131,https://zapier.com/privacy,approved
+10551,299,neutral,2345.0,"Rather, all such information is provided directly to our third party processor, Stripe, whose use of your personal information is governed by their privacy policy, which may be viewed at https://stripe.com/us/privacy.</p>Information",10, Zapier,2131,https://zapier.com/privacy,approved
+10552,331,neutral,2345.0,"Date of Last Revision: March 03, 2020",50, Zapier,2131,https://zapier.com/privacy,approved
+10553,336,bad,2345.0,"This research may be compiled and analyzed on an aggregate basis, and Zapier may share this aggregate data with its affiliates, agents and business partners.",50, Zapier,2131,https://zapier.com/privacy,approved
+10554,376,bad,2345.0,"Personal Data That You Provide Through the Services</strong>: We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Zapier Services or use certain Zapier Services.",70, Zapier,2131,https://zapier.com/privacy,approved
+10555,209,good,2345.0,"Please remember that the manner in which Third-Party Services use, store and disclose your information is governed by the policies of such Third-Party Services, and Zapier shall have no liability or responsibility for the privacy practices or other actions of any Third-Party Services that may be enabled within the Service.</p>",30, Zapier,2131,https://zapier.com/privacy,approved
+10556,375,neutral,2345.0,Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately.,50, Zapier,2131,https://zapier.com/privacy,approved
+10557,390,good,2345.0,"All Unsolicited Information shall be deemed to be non-confidential and Zapier shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.",50, Zapier,2131,https://zapier.com/privacy,approved
+10558,163,neutral,2345.0,Zapier is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).,0, Zapier,2131,https://zapier.com/privacy,approved
+10559,223,good,2345.0,"If we do so, each communication we send you will contain instructions permitting you to ""opt-out"" of receiving future communications.
+In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.</p>",10, Zapier,2131,https://zapier.com/privacy,approved
+10560,123,good,2345.0,"Any such changes will become effective no earlier than fourteen (14) days after they are posted,",15, Zapier,2131,https://zapier.com/privacy,approved
+10561,243,bad,2345.0,"As we develop our business, we might sell or buy businesses or assets.
+In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.",50, Zapier,2131,https://zapier.com/privacy,approved
+10562,338,good,2345.0,"You can choose at any time to opt out by contacting support at contact@zapier.com, you can also contact us to opt out of your information being used for purposes other than it was originally collected.",50, Zapier,2131,https://zapier.com/privacy,approved
+10563,286,bad,2807.0,"</strong>THE ZILLOW COMPANIES PROVIDE THE SERVICES “AS IS,” “WITH ALL FAULTS” AND “AS AVAILABLE,”",20, Zillow,323,https://www.zillow.com/corp/Terms.htm,approved
+10564,287,bad,2807.0,WARRANTIES OR CONDITIONS OF UNINTERRUPTED OR ERROR-FREE ACCESS OR USE.,30, Zillow,323,https://www.zillow.com/corp/Terms.htm,approved
+10565,288,bad,2807.0,"ZILLOW COMPANIES AND THEIR SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES OR CONDITIONS, EXPRESS, STATUTORY AND IMPLIED",10, Zillow,323,https://www.zillow.com/corp/Terms.htm,approved
+10566,128,bad,179.0,"<p>Zillow allows certain companies to place tracking technologies like cookies and pixels on our sites, which allow those companies to receive information about your activity on Zillow that is associated with your browser or device.&nbsp.
+The companies may use that data to serve you more relevant ads on our sites or others.",70, Zillow,323,http://www.zillow.com/corp/Privacy.htm,approved
+10567,387,bad,179.0, and the URL of the site you visited before Zillow.</p>,50, Zillow,323,http://www.zillow.com/corp/Privacy.htm,approved
+10568,399,neutral,179.0,your IP address and other device information when you browse our sites or use our apps.,0, Zillow,323,http://www.zillow.com/corp/Privacy.htm,approved
+10569,373,bad,179.0,"If you enable location services on your mobile device, Zillow collects the location of your device.&nbsp.
+We use that information to provide you with location-based information and ads, like homes and real estate professionals in your area, and to offer location-based services, like allowing you to unlock and tour Zillow Offers homes on your own schedule and claiming your home on Zillow.",75, Zillow,323,http://www.zillow.com/corp/Privacy.htm,approved
+10570,323,bad,179.0,"We and our partners use various tools to collect data when you visit our sites and apps, including cookies, pixel tags, and other similar technologies.
+",50, Zillow,323,http://www.zillow.com/corp/Privacy.htm,approved
+10571,152,neutral,2807.0,</strong>You must be at least 18 years of age to use the Services.,15, Zillow,323,https://www.zillow.com/corp/Terms.htm,approved
+10572,290,bad,2807.0,"WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, ACCURACY,",0, Zillow,323,https://www.zillow.com/corp/Terms.htm,approved
+10573,118,blocker,2807.0,"
+You agree to waive, and do waive, any legal or equitable right or remedy you may have against us ",50, Zillow,323,https://www.zillow.com/corp/Terms.htm,approved
+10574,233,bad,784.0,We do not currently honor Do Not Track signals from internet browsers.,60, Zoho,856,https://www.zoho.com/privacy.html,approved
+10575,331,neutral,784.0,25th May 2018,50, Zoho,856,https://www.zoho.com/privacy.html,approved
+10576,149,bad,2395.0,"IN ANY CASE, ZOOM'S, ITS AFFILIATES', SUPPLIERS' AND RESELLERS' MAXIMUM CUMULATIVE LIABILITY AND YOUR EXCLUSIVE REMEDY FOR ANY CLAIMS ARISING OUT OF OR RELATED TO THIS AGREEMENT WILL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE SERVICES (IF ANY) IN THE TWELVE (12) MONTHS PRECEDING THE EVENT OR CIRCUMSTANCES GIVING RISE TO SUCH CLAIMS.",10, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10577,146,bad,2395.0,"INDEMNIFICATION</strong>.
+You agree to indemnify, defend and hold harmless Zoom, its affiliates, officers, directors, employees, consultants, agents, suppliers and Resellers from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorneys' fees) arising from Your use of the Services, Your violation of this Agreement or the infringement or violation by You or any other user of Your account, of any intellectual property or other right of any person or entity or applicable law.</li>",60, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10578,127,bad,2397.0,"<p>How to Control Cookies</p>
+<p>You can turn Advertising Cookies and Functional Cookies off at any time by visiting our Cookie Preferences link at the footer of the page.</p>
+<p>
+You can also control cookies by adjusting the settings within your internet browser.",5, Zoom Video Communications,2198,https://zoom.us/cookie-policy,approved
+10579,220,bad,2394.0,"Marketing, including facilitating tailoring of advertising you see when you are on other online services",40, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10580,195,good,2394.0,"If you would like to correct or update information that you have provided to us, please logon to www.zoom.us and update your profile.",50, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10581,286,bad,2395.0,"</strong>YOU UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED ""AS IS"" AND ZOOM, ITS AFFILIATES, SUPPLIERS AND RESELLERS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.",20, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10582,287,bad,2395.0,"BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE",30, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10583,197,good,2394.0,Change Log <p>Summary of Updates Made,50, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10584,167,good,2394.0,"We share personal data with companies, organizations or individuals outside of Zoom if we believe that access, use, preservation or disclosure of the information is reasonably necessary to: </p>
+<ul>
+<li>
+<ul>
+<li> meet any applicable law or respond to valid legal process",50, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10585,280,neutral,2395.0,"engage in activity that is illegal, fraudulent, false, or misleading",10, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10586,205,neutral,2395.0,Your access may be terminated without warning if we believe that You are under the age of 16 or are otherwise ineligible,15, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10587,210,good,2394.0,Zoom contractually prohibits such vendors from using the personal data for any reason other than to provide the contracted-for services and Zoom contractually requires its vendors to comply with all appropriate privacy and security requirements.,20, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10588,288,bad,2395.0,"ZOOM, ITS AFFILIATES, SUPPLIERS AND RESELLERS MAKE NO WARRANTY OR REPRESENTATION REGARDING THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES, REGARDING THE ACCURACY OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THE SERVICES",10, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10589,291,neutral,2395.0,ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS AT YOUR OWN DISCRETION AND RISK.,50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10590,183,good,2395.0,"You retain copyright and any other rights You already hold in Content which You submit, post or display on or through, the Services.</li>
+<li>
+<strong>Recordings",50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10591,299,neutral,2394.0,"This Privacy Statement does not apply to any third-party applications or software that you elect to add to the Services (“Third Party Services”), or any other third-party websites, mobile applications, or online products, services or businesses you may access from the Services.",10, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10592,295,neutral,2395.0,"Failure by either Party to exercise any of its rights under, or to enforce any provision of, this Agreement will not be deemed a waiver or forfeiture of such rights or ability to enforce such provision.",10, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10593,128,bad,2394.0,"Like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies on our Marketing Pages.
+This is called interest-based advertising.",70, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10594,219,good,2397.0,"If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device.</p>
+",25, Zoom Video Communications,2198,https://zoom.us/cookie-policy,approved
+10595,325,bad,2397.0,"Zoom Video Communications, Inc.
+(“Zoom”) and our partners use cookies or similar technologies to analyze trends, administer and track users’ movements during your visit to our website",10, Zoom Video Communications,2198,https://zoom.us/cookie-policy,approved
+10596,283,neutral,2395.0,"use the Services to communicate any message or material that is harassing, libelous, threatening, obscene, indecent, would violate the intellectual property rights of any party or is otherwise unlawful",20, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10597,329,neutral,2397.0,"When we make updates, changes or revisions, they will be effective when we post the updated Cookie Policy to our site.
+If we make any material changes, we will notify you by email or, at our option, by means of a notice on our site prior to the change becoming effective.",50, Zoom Video Communications,2198,https://zoom.us/cookie-policy,approved
+10598,307,bad,2397.0,"Social Media Cookies</p>
+<p>Some of our websites and Products include code snippets provided by social media companies that can sense if you are already logged into a given social media account so you can easily share Zoom content with other social media users via that account.
+These code snippets read cookies set previously by social media company web content while you are logged in and browsing such content on those social media sites.</p>
+<p>Social media companies will not be able to sense if you are already logged into a given social media account if you&nbsp.
+turn off Advertising Cookies",50, Zoom Video Communications,2198,https://zoom.us/cookie-policy,approved
+10599,339,bad,2395.0,Zoom reserves the right to require arbitration.,50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10600,382,bad,2394.0,We also obtain data about you from third parties.,50, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10601,384,neutral,2395.0,"You agree that Zoom may charge to Your credit card or other payment mechanism selected by You and approved by Zoom (""Your Account"") all amounts due and owing for the Services, including taxes and service fees, set up fees, subscription fees, or any other fee or charge associated with Your Account.",50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10602,387,bad,2394.0,"Referrer URL,</li>
+<li> Exit pages",50, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10603,393,good,2394.0,including from law enforcement or other government agencies,30, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10604,399,neutral,2394.0,"Approximate location (<em>e.g.</em>,<strong>
+</strong>nearest city or town)",0, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10605,396,bad,2394.0,You can get more information and opt-out of the use of cookies on our Marketing Pages by clicking the Do Not Sell My Personal Information link in the footer of this webpage.,60, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10606,203,bad,2395.0,"Zoom may, in its sole discretion, discontinue the Services or modify the features of the Services from time to time without prior notice.",40, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10607,313,good,2396.0,"If you repeatedly transmit or post content that infringes someone else’s intellectual property rights, such as copyrights or trademarks,&nbsp.
+Zoom may terminate your use of our services.",50, Zoom Video Communications,2198,https://zoom.us/docs/en-us/dmca-policy.html,approved
+10608,228,good,2394.0,"Information we collect when you register for a free Zoom Account, such as: </p>
+<ul>
+<li> Date of birth (for age-verification purposes only, <strong>Zoom does not retain or use this information for any other purpose</strong>) </li>
+<li>First Name</li>
+<li>Last Name</li>
+<li>Phone (optional)</li>
+<li>Email</li>
+<li>Language preference</li>
+<li>User IDs and Password (if Single Sign On is not used)</li>
+<li>Profile Picture for avatar (optional)</li>
+<li>Department (optional)</li>
+<li>Meeting schedule</li>",30, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10609,377,neutral,2395.0,"Although Zoom is not responsible for any Content, Zoom may delete any Content, at any time without notice to You, if Zoom becomes aware that it violates any provision of this Agreement, or any law.",50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10610,373,bad,2394.0,"<strong>Approximate Location </strong>(e.g.,<strong>
+</strong>nearest city or town) </p>
+<p>Automatically through your use of the Services</p>
+<ul>
+<li>Connect you to the nearest data center</li>
+<li> Comply with privacy and other laws – for example, so we can provide you with the right notices for your area </li>
+<li>Suggest choices such as language preferences</li>
+<li>Monitor performance of our data centers and networks</li>
+<li>Route support requests</li>
+</ul>
+<ul>
+<li>Contract</li>
+<li>Legitimate interests</li>
+<li>Legal obligation",75, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10611,163,neutral,2395.0,"Except as provided in Exhibit A, the Parties consent to the exclusive jurisdiction and venue of the state courts located in and serving Santa Clara County, California and the federal courts in the Northern District of California.",0, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10612,241,good,2395.0,"This Agreement shall be governed by and construed under the laws of the State of California, U.S.A.",50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10613,323,bad,2394.0,"Data collected through the use of cookies and pixels from tools (such as Google Analytics and </p>
+<p>Google Ads)",50, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10614,333,bad,2394.0,We may need to retain certain information for record-keeping purposes or to complete transactions that you began prior to requesting any deletion.,70, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10615,140,good,2394.0,"You may have the right to access the personal data that we hold about you and, in some limited circumstances, have that data provided to you so that you can provide or “port” that data to another provider.",40, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10616,117,bad,2395.0,"AGREEMENT TO ARBITRATE.
+WAIVER OF CLASS ACTION</strong>.
+If You are located in the United States, You agree to resolve disputes only on an individual basis, through arbitration pursuant to the provisions of Exhibit A.&nbsp;<strong>The parties expressly waive any right to bring any action, lawsuit, or proceeding as a class or collective action, private attorney general action, or any other proceeding in which any party acts or proposes to act in a representative capacity",50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10617,148,neutral,2395.0,You are entirely responsible for maintaining the security of Your user name and password and agree not to disclose such to any third party.</li>,10, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10618,151,bad,2395.0,"Requirement to File Within One Year</strong>.
+Notwithstanding any other statute of limitations, a claim or dispute under this Agreement must be filed in Small Claims Court or noticed for arbitration within one year of when it could first be filed, or such claim will be permanently barred.</li>",50, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10619,152,neutral,2395.0,You affirm that You are at least 16 years of age,15, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10620,187,bad,2394.0,"Zoom operates globally, which means personal data may be stored and processed (for example stored in a data center) in any country where we or our service providers have facilities or hold events.
+By using Zoom or providing personal data for any of the purposes stated above, you acknowledge that your personal data may be transferred to or stored in the United States or in other countries around the world.
+Such countries may have data protection rules that are different and less protective than those of your country.",25, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10621,290,bad,2395.0,THAT THE SERVICES WILL MEET ANY USER'S REQUIREMENTS,0, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10622,294,neutral,2395.0,"If any provision of this Agreement is held by a court of competent jurisdiction to be illegal, invalid or unenforceable, that provision will be amended to achieve as nearly as possible the same economic effect of the original provision and the remainder of this Agreement will remain in full force and effect.</p>",10, Zoom Video Communications,2198,https://zoom.us/terms,approved
+10623,170,good,2394.0,Customers can delete their own accounts.</p>,15, Zoom Video Communications,2198,https://zoom.us/privacy,approved
+10624,233,bad,29.0,We do not respond to do not track signals set by your browser at this time.</li>,60, Zoosk,266,https://www.zoosk.com/privacy.php?from=footer,approved
+10625,152,neutral,29.0,"AGE RESTRICTIONS
+<p>Although our website is a general audience site, we restrict the use of our Services to individuals age 18 and above.",15, Zoosk,266,https://www.zoosk.com/privacy.php?from=footer,approved

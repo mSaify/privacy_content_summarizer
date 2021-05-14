@@ -1,0 +1,26 @@
+{"lstm": {"use_skip_connections": true, "projection_dim": 256, "cell_clip": 3, "proj_clip": 3, "dim": 2048, "n_layers": 2}, "char_cnn": {"activation": "relu", "filters": [[1, 32], [2, 32], [3, 64], [4, 128], [5, 256], [6, 512], [7, 1024]], "n_highway": 1, "embedding": {"dim": 16}, "n_characters": 262, "max_characters_per_token": 50},
+  "dataset_reader": {
+    "type": "sharded",
+    "base_reader": {
+      "type": "simple_language_modeling",
+      "tokenizer": {
+        "type": "just_spaces"
+      },
+      "token_indexers": {
+        "tokens": {
+          "type": "single_id"
+        },
+        "token_characters": {
+          "type": "elmo_characters"
+        }
+      },
+      "max_sequence_length": 400,
+      "start_tokens": [
+        "<S>"
+      ],
+      "end_tokens": [
+        "</S>"
+      ]
+    }
+  }
+}
