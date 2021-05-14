@@ -38,8 +38,6 @@ def data_loader(train_inputs, val_inputs, train_labels, val_labels,
     print("original test y tensor shape")
     print(val_labels.shape)
 
-
-
     train_data = TensorDataset(train_inputs, train_labels)
     train_sampler = RandomSampler(train_data)
     train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=batch_size)
